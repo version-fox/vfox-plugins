@@ -48,7 +48,9 @@ jobs:
       with:
         ref: ${{ github.ref }}
     - name: Run script
-      run: bash ./script/build_registry.sh ./plugins
+      run: |
+      bash ./script/build_registry.sh ./plugins
+      mv CNAME ./plugins
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
