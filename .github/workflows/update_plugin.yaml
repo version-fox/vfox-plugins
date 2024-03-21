@@ -44,6 +44,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
+        name: github-pages-${{ github.run_id }}
         path: './plugins'
     - name: Deploy to GitHub Pages
       id: deployment
