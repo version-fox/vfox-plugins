@@ -49,14 +49,15 @@ for file in $sourceDir/*.json; do
     echo "The manifest name is inconsistent with the recorded name: sourcePluginName => $sourceName, manifestPluginName => $pluginName"
     continue
   fi
+
   # compare the version
+  isEqualVersion=false
   pluginJsonFile="$targetDir/$pluginName.json"
   if [ -f $pluginJsonFile ]; then
     currentVersion=$(jq -r '.version' $pluginJsonFile)
     newVersion=$(jq -r '.version' $tmpPluginJsonFile)
     if [ "$currentVersion" = "$newVersion" ]; then
-      echo "::::The version is the same, skip update"
-      continue
+      isEqualVersion=true
     fi
   fi
 
@@ -66,11 +67,14 @@ for file in $sourceDir/*.json; do
 
   echo "::::Updating plugin json [$pluginJsonFile]"
 
-  jq . $tmpPluginJsonFile > $pluginJsonFile
+  jq . $tmpPluginJsonFile >$pluginJsonFile
 
-  git add $pluginJsonFile
+  # 如果版本不一致,则需要提交
+  if [ "$isEqualVersion" = false ]; then
+    git add $pluginJsonFile
 
-  git commit -m "$pluginName: Update to version $newVersion" $pluginJsonFile
+    git commit -m "$pluginName: Update to version $newVersion" $pluginJsonFile
+  fi
 
   desc=$(jq -r '.description' $tmpPluginJsonFile)
   homepage=$(jq -r '.homepage' $tmpPluginJsonFile)
