@@ -49,7 +49,7 @@ jobs:
         ref: ${{ github.ref }}
     - name: Run script
       run: bash ./script/build_registry.sh ./plugins
-     - name: Upload artifact
+    - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
         # Upload entire repository
