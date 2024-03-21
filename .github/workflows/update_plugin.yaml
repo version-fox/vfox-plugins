@@ -38,7 +38,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2 
     - name: Run script
-      run: bash ./script/build_registry.sh ./plugins
+      run: bash ./script/build_registry.sh ../plugins
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
