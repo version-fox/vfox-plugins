@@ -57,6 +57,7 @@ for file in $sourceDir/*.json; do
     currentVersion=$(jq -r '.version' $pluginJsonFile)
     newVersion=$(jq -r '.version' $tmpPluginJsonFile)
     if [ "$currentVersion" = "$newVersion" ]; then
+      echo "The version is the same: $currentVersion"
       isEqualVersion=true
     fi
   fi
