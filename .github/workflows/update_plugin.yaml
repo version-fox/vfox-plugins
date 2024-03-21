@@ -42,7 +42,7 @@ jobs:
     - name: Run script
       run: bash ./script/build_registry.sh ./plugins
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: github-pages-${{ github.run_id }}
         path: './plugins'
