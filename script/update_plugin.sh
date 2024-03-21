@@ -13,6 +13,10 @@ if [ -z "$targetDir" ]; then
   exit 1
 fi
 
+if [ ! -d "$targetDir" ]; then
+  mkdir -p $targetDir
+fi
+
 git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
 git config --local user.name "github-actions[bot]"
 
@@ -58,13 +62,11 @@ for file in $sourceDir/*.json; do
 
   newVersion=$(jq -r '.version' $tmpPluginJsonFile)
 
-
   pluginJsonFile="$targetDir/$pluginName.json"
 
   echo "::::Updating plugin json [$pluginJsonFile]"
 
   cp $tmpPluginJsonFile $pluginJsonFile
-
 
   git add $pluginJsonFile
 
@@ -76,7 +78,6 @@ for file in $sourceDir/*.json; do
   echo "{ \"name\": \"$name\", \"desc\": \"$desc\", \"homepage\": \"$homepage\" }," >>$indexJsonFile
 
   echo "::::End processing [$sourceName]"
-
 
 done
 
