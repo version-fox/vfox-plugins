@@ -1,0 +1,51 @@
+name: Update Registry
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+
+jobs:
+  fetch-or-update-plugins:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run script
+      run: bash ./script/update_plugin.sh ./sources ./plugins
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+  
+  deploy-registry:
+    needs: fetch-or-update-plugins
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2 
+      with:
+        ref: ${{ github.ref }}
+    - name: Run script
+      run: bash ./script/build_registry.sh ./plugins
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        path: './plugins'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+  
