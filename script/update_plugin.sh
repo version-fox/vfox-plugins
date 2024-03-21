@@ -87,9 +87,18 @@ for file in $sourceDir/*.json; do
 done
 
 rm $tmpPluginJsonFile
+
+echo "IndexJsonFile: $indexJsonFile"
+
 # Remove the last comma and add closing bracket
 sed -i '' -e '$ s/,$//' $indexJsonFile
 echo "]" >>$indexJsonFile
 
-git add $indexJsonFile
-git commit -m "Update plugin index" $indexJsonFile
+# Check if indexJsonFile has changes
+git diff --quiet $indexJsonFile
+if [ $? -ne 0 ]; then
+  git add $indexJsonFile
+  git commit -m "Update plugin index" $indexJsonFile
+else
+  echo "No changes in $indexJsonFile, skipping commit"
+fi
