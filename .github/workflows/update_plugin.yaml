@@ -32,7 +32,7 @@ jobs:
         branch: ${{ github.ref }}
   
   deploy-registry:
-    need: fetch-or-update-plugins
+    needs: fetch-or-update-plugins
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
