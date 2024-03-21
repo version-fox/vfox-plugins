@@ -37,8 +37,10 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2 
+      with:
+        ref: ${{ github.ref }}
     - name: Run script
-      run: bash ./script/build_registry.sh ../plugins
+      run: bash ./script/build_registry.sh ./plugins
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
