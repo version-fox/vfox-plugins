@@ -75,7 +75,7 @@ for file in $sourceDir/*.json; do
   desc=$(jq -r '.description' $tmpPluginJsonFile)
   homepage=$(jq -r '.homepage' $tmpPluginJsonFile)
   echo "::::Adding name:[$pluginName] homepage:[$homepage] to index"
-  echo "{ \"name\": \"$name\", \"desc\": \"$desc\", \"homepage\": \"$homepage\" }," >>$indexJsonFile
+  echo "{ \"name\": \"$pluginName\", \"desc\": \"$desc\", \"homepage\": \"$homepage\" }," >>$indexJsonFile
 
   echo "::::End processing [$sourceName]"
 

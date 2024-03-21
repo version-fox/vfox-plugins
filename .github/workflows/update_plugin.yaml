@@ -30,3 +30,19 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
+  
+  deploy-registry:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2 
+    - name: Run script
+      run: bash ./script/build_registry.sh ./plugins
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './plugins'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+  
