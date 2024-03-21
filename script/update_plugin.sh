@@ -66,7 +66,7 @@ for file in $sourceDir/*.json; do
 
   echo "::::Updating plugin json [$pluginJsonFile]"
 
-  cp $tmpPluginJsonFile $pluginJsonFile
+  jq . $tmpPluginJsonFile > $pluginJsonFile
 
   git add $pluginJsonFile
 
