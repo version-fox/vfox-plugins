@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "java",
   "manifestUrl": "https://github.com/version-fox/vfox-plugin-template/releases/download/manifest/manifest.json",
   "test": {
     "version": "1.0.0",
