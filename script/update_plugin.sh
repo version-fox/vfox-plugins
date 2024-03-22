@@ -95,8 +95,7 @@ sed -i '' -e '$ s/,$//' $indexJsonFile
 echo "]" >>$indexJsonFile
 
 # Check if indexJsonFile has changes
-git diff --quiet $indexJsonFile
-if [ $? -ne 0 ]; then
+if git status --porcelain | grep -q "^ M plugins/index.json"; then
   git add $indexJsonFile
   git commit -m "Update plugin index" $indexJsonFile
 else
