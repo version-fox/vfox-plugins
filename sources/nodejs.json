@@ -1,0 +1,9 @@
+{
+  "name": "nodejs",
+  "manifestUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "21.7.1",
+    "check": "node -v",
+    "resultRegx": "v21.7.1"
+  }
+}
