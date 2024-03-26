@@ -1,1 +1,3 @@
-[]
+[
+{ "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" }
+]
