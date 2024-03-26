@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.0.1/vfox-nodejs_0.0.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.0.5/vfox-nodejs_0.0.5.zip",
   "notes": [],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/version-fox/vfox-nodejs",
   "minRuntimeVersion": "0.2.6",
   "license": "Apache 2.0",
