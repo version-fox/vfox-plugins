@@ -6,7 +6,7 @@
 ## Creating a new Plugin
 
 1. Read the [creating plugins guide](https://vfox.lhan.me/plugins/create/howto.html)
-2. Using our [Template](https://github.com/version-fox/vfox-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHubout of the box.
+2. Using our [Template](https://github.com/version-fox/vfox-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub out of the box.
 
 ## Publish a Plugin to the Registry
 
