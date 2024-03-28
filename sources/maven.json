@@ -1,0 +1,9 @@
+{
+  "name": "maven",
+  "manifestUrl": "https://github.com/version-fox/vfox-maven/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.9.6",
+    "check": "mvn -v",
+    "resultRegx": "Apache Maven\\s+(\\d+\\.\\d+\\.\\d+)"
+  }
+}

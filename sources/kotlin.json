@@ -1,0 +1,9 @@
+{
+  "name": "kotlin",
+  "manifestUrl": "https://github.com/version-fox/vfox-kotlin/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.9.23",
+    "check": "kotlin -version",
+    "resultRegx": "Kotlin version\\s+(\\d+\\.\\d+\\.\\d+)"
+  }
+}

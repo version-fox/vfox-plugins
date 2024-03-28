@@ -4,6 +4,6 @@
   "test": {
     "version": "8.7",
     "check": "gradle --version",
-    "resultRegx": "v8.7"
+    "resultRegx": "Gradle\\s+(\\d+\\.\\d+)"
   }
 }

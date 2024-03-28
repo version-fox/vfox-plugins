@@ -1,0 +1,9 @@
+{
+  "name": "dotnet",
+  "manifestUrl": "https://github.com/version-fox/vfox-dotnet/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "8.0.3",
+    "check": "dotnet --version",
+    "resultRegx": ""
+  }
+}

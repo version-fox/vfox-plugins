@@ -1,0 +1,9 @@
+{
+  "name": "zig",
+  "manifestUrl": "https://github.com/version-fox/vfox-zig/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "0.11.1",
+    "check": "zig version",
+    "resultRegx": "\\d+\\.\\d+\\.\\d+"
+  }
+}
