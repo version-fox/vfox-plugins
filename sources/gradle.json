@@ -1,0 +1,9 @@
+{
+  "name": "gradle",
+  "manifestUrl": "https://github.com/version-fox/vfox-gradle/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "8.7",
+    "check": "gradle --version",
+    "resultRegx": "v8.7"
+  }
+}
