@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-dart/releases/download/manifest/manifest.json",
+  "notes": [
+    ""
+  ],
+  "description": "dart plugin, support for getting stable, dev, beta version",
+  "downloadUrl": "https://github.com/version-fox/vfox-dart/releases/download/v0.1.0/vfox-dart_0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "dart",
+  "homepage": "https://github.com/version-fox/vfox-dart",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
