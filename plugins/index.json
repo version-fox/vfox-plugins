@@ -1,4 +1,10 @@
 [
+{ "name": "dart", "desc": "dart plugin, support for getting stable, dev, beta version", "homepage": "https://github.com/version-fox/vfox-dart" },
+{ "name": "deno", "desc": "Deno plugin, https://deno.com/", "homepage": "https://github.com/version-fox/vfox-deno" },
+{ "name": "dotnet", "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0", "homepage": "https://github.com/version-fox/vfox-dotnet" },
 { "name": "gradle", "desc": "gradle", "homepage": "https://github.com/version-fox/vfox-gradle" },
-{ "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" }
+{ "name": "kotlin", "desc": "Kotlin plugin", "homepage": "https://github.com/version-fox/vfox-kotlin" },
+{ "name": "maven", "desc": "Maven runtime environment.", "homepage": "https://github.com/version-fox/vfox-maven" },
+{ "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" },
+{ "name": "zig", "desc": "Zig runtime environment.", "homepage": "https://github.com/version-fox/vfox-zig" }
 ]
