@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-zig/releases/download/manifest/manifest.json",
+  "notes": [
+    ""
+  ],
+  "description": "Zig runtime environment.",
+  "downloadUrl": "https://github.com/version-fox/vfox-zig/releases/download/v0.1.0/vfox-zig_0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "zig",
+  "homepage": "https://github.com/version-fox/vfox-zig",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
