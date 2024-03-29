@@ -1,0 +1,9 @@
+{
+  "name": "dart",
+  "manifestUrl": "https://github.com/version-fox/vfox-dart/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.3.3",
+    "check": "dart --version",
+    "resultRegx": "Dart SDK version:\\s+(\\d+\\.\\d+\\.\\d+)"
+  }
+}

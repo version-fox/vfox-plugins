@@ -1,0 +1,9 @@
+{
+  "name": "deno",
+  "manifestUrl": "https://github.com/version-fox/vfox-deno/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.41.3",
+    "check": "deno --version",
+    "resultRegx": "deno\\s+(\\d+\\.\\d+\\.\\d+)"
+  }
+}
