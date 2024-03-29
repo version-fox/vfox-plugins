@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-kotlin/releases/download/manifest/manifest.json",
+  "notes": [
+    ""
+  ],
+  "description": "Kotlin plugin",
+  "downloadUrl": "https://github.com/version-fox/vfox-kotlin/releases/download/v0.1.0/vfox-kotlin_0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "kotlin",
+  "homepage": "https://github.com/version-fox/vfox-kotlin",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
