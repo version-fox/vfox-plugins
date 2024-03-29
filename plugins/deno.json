@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-deno/releases/download/manifest/manifest.json",
+  "notes": [
+    ""
+  ],
+  "description": "Deno plugin, https://deno.com/",
+  "downloadUrl": "https://github.com/version-fox/vfox-deno/releases/download/v0.1.0/vfox-deno_0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "deno",
+  "homepage": "https://github.com/version-fox/vfox-deno",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
