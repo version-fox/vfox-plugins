@@ -1,0 +1,16 @@
+{
+  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.1.0/vfox-python_0.1.0.zip",
+  "notes": [
+    "Mirror Setting:",
+    "You can use VFOX_PYTHON_MIRROR environment variable to set mirror.",
+    " ",
+    "Others:",
+    "For Windows, only support >=3.5.0, but no restrictions for unix-like."
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/version-fox/vfox-python",
+  "minRuntimeVersion": "0.3.0",
+  "license": "Apache 2.0",
+  "description": "Python language support, https://www.python.org",
+  "name": "python"
+}
