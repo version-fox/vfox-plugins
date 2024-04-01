@@ -1,7 +1,12 @@
 # Public Plugin Registry 
-![](https://img.shields.io/github/directory-file-count/version-fox/vfox-plugins%2Fplugins?style=flat&label=Available%20Plugins)
+[![](https://img.shields.io/github/directory-file-count/version-fox/vfox-plugins%2Fplugins?style=flat&label=Available%20Plugins)](https://vfox.lhan.me/plugins/available.html)
 [![Excavator](https://github.com/version-fox/vfox-plugins/actions/workflows/update_plugin.yaml/badge.svg)](https://github.com/version-fox/vfox-plugins/actions/workflows/update_plugin.yaml)
 
+
+
+## Supported Plugins
+
+You can view all plugins at [available page](https://vfox.lhan.me/plugins/available.html).
 
 ## Creating a new Plugin
 

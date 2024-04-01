@@ -1,0 +1,9 @@
+{
+  "name": "java",
+  "manifestUrl": "https://github.com/version-fox/vfox-java/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "21.0.2+13",
+    "check": "java --version",
+    "resultRegx": "openjdk 21.0.2 2024-01-16"
+  }
+}
