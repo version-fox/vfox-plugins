@@ -7,7 +7,6 @@
 { "name": "gradle", "desc": "Gradle runtime environment.", "homepage": "https://github.com/version-fox/vfox-gradle" },
 { "name": "java", "desc": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.", "homepage": "https://github.com/version-fox/vfox-java" },
 { "name": "kotlin", "desc": "Kotlin plugin", "homepage": "https://github.com/version-fox/vfox-kotlin" },
-{ "name": "maven", "desc": "Maven runtime environment.", "homepage": "https://github.com/version-fox/vfox-maven" },
 { "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" },
 { "name": "python", "desc": "Python language support, https://www.python.org", "homepage": "https://github.com/version-fox/vfox-python" },
 { "name": "zig", "desc": "Zig runtime environment.", "homepage": "https://github.com/version-fox/vfox-zig" }
