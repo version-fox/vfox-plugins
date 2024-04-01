@@ -1,0 +1,9 @@
+{
+  "name": "flutter",
+  "manifestUrl": "https://github.com/version-fox/vfox-flutter/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "2.5.3",
+    "check": "flutter --version",
+    "resultRegx": "Flutter (\\d+\\.\\d+\\.\\d+)"
+  }
+}

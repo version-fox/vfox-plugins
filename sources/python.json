@@ -1,0 +1,9 @@
+{
+  "name": "python",
+  "manifestUrl": "https://github.com/version-fox/vfox-python/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.9.1",
+    "check": "python --version",
+    "resultRegx": "Python (\\d+\\.\\d+\\.\\d+)"
+  }
+}
