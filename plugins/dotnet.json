@@ -4,10 +4,10 @@
     ""
   ],
   "description": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0",
-  "downloadUrl": "https://github.com/version-fox/vfox-dotnet/releases/download/v0.1.0/vfox-dotnet_0.1.0.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-dotnet/releases/download/v0.1.1/vfox-dotnet-0.1.1.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "dotnet",
   "homepage": "https://github.com/version-fox/vfox-dotnet",
   "license": "Apache 2.0",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
