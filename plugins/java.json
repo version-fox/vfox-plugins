@@ -1,0 +1,18 @@
+{
+  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.1.0/vfox-java_0.1.0.zip",
+  "notes": [
+    "Listed below are the supported distributions and their short names.",
+    " - Oracle:     x.y.z-oracle",
+    " - OpenJDK:    x.y.z-open",
+    " - GraalVM:    x.y.z-graal",
+    " - Temurin:    x.y.z-tem",
+    " - Zulu:       x.y.z-zulu",
+    "Others please see: https://github.com/version-fox/vfox-java"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/version-fox/vfox-java",
+  "minRuntimeVersion": "0.3.0",
+  "license": "Apache 2.0",
+  "description": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
+  "name": "java"
+}
