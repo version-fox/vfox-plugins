@@ -3,10 +3,10 @@
   "notes": [
     "The plugin supports specifying mirrors to download the installer."
   ],
-  "description": "gradle",
-  "downloadUrl": "https://github.com/version-fox/vfox-gradle/releases/download/v0.1.0/vfox-gradle_0.1.0.zip",
+  "description": "Gradle runtime environment.",
+  "downloadUrl": "https://github.com/version-fox/vfox-gradle/releases/download/v0.1.1/vfox-gradle-0.1.1.zip",
   "author": "ahai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/version-fox/vfox-gradle",
   "license": "Apache 2.0",
   "minRuntimeVersion": "0.3.0",
