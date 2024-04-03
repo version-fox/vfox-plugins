@@ -1,0 +1,9 @@
+{
+  "name": "scala",
+  "manifestUrl": "https://github.com/version-fox/vfox-scala/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.4.1",
+    "check": "scala --version",
+    "resultRegx": "Scala code runner version (\\d+\\.\\d+\\.\\d+)"
+  }
+}
