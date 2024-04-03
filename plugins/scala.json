@@ -2,10 +2,10 @@
   "manifestUrl": "https://github.com/version-fox/vfox-scala/releases/download/manifest/manifest.json",
   "notes": [],
   "description": "Scala plugin, https://www.scala-lang.org/",
-  "downloadUrl": "https://github.com/ahai-code/vfox-scala/releases/download/v0.1.0/vfox-scala-0.1.0.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-scala/releases/download/v0.1.1/vfox-scala-0.1.1.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "scala",
   "homepage": "https://github.com/version-fox/vfox-scala",
   "license": "Apache 2.0",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
