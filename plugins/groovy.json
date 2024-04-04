@@ -1,0 +1,11 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-groovy/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Groovy plugin, https://groovy.apache.org/",
+  "downloadUrl": "https://github.com/version-fox/vfox-groovy/releases/download/v0.1.0/vfox-groovy-0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "groovy",
+  "homepage": "https://github.com/version-fox/vfox-groovy",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
