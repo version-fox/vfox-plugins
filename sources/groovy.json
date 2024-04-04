@@ -1,0 +1,9 @@
+{
+  "name": "groovy",
+  "manifestUrl": "https://github.com/version-fox/vfox-groovy/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "4.0.19",
+    "check": "groovy -v",
+    "resultRegx": "Groovy Version:(\\d+\\.\\d+\\.\\d+)"
+  }
+}
