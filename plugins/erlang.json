@@ -1,13 +1,9 @@
 {
-  "manifestUrl": "https://github.com/version-fox/vfox-erlang/releases/download/manifest/manifest.json",
-  "notes": [
-    ""
-  ],
-  "description": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions.",
-  "downloadUrl": "https://github.com/version-fox/vfox-erlang/releases/download/v0.3.0/vfox-erlang-0.3.0.zip",
-  "minRuntimeVersion": "0.3.0",
   "name": "erlang",
-  "homepage": "https://github.com/version-fox/vfox-erlang",
-  "license": "Apache 2.0",
-  "version": "0.3.0"
+  "manifestUrl": "https://github.com/version-fox/vfox-erlang/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "26.2.2",
+    "check": "echo $PATH",
+    "resultRegx": "v-26.2.2"
+  }
 }

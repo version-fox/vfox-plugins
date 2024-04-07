@@ -1,0 +1,9 @@
+{
+  "name": "elixir",
+  "manifestUrl": "https://github.com/version-fox/vfox-elixir/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.15.7",
+    "check": "elixir -v",
+    "resultRegx": "1.15.7"
+  }
+}
