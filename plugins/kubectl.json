@@ -1,0 +1,11 @@
+{
+  "manifestUrl": "https://github.com/ahai-code/vfox-kubectl/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Kubectl plugin",
+  "downloadUrl": "https://github.com/ahai-code/vfox-kubectl/releases/download/v0.1.0/vfox-kubectl-0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "kubectl",
+  "homepage": "https://github.com/ahai-code/vfox-kubectl",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
