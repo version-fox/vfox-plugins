@@ -1,0 +1,11 @@
+{
+  "manifestUrl": "https://github.com/ahai-code/vfox-julia/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Julia plugin, https://julialang.org/",
+  "downloadUrl": "https://github.com/ahai-code/vfox-julia/releases/download/v0.1.0/vfox-julia-0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "julia",
+  "homepage": "https://github.com/ahai-code/vfox-julia",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
