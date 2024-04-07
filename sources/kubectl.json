@@ -4,6 +4,6 @@
   "test": {
     "version": "1.29.1",
     "check": "kubectl version --client",
-    "resultRegx": "GitVersion:\"v(\\d+\\.\\d+\\.\\d+)\""
+    "resultRegx": "Client Version: v(\\d+\\.\\d+\\.\\d+)"
   }
 }
