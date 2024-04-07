@@ -1,0 +1,9 @@
+{
+  "name": "julia",
+  "manifestUrl": "https://github.com/ahai-code/vfox-julia/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.10.2",
+    "check": "julia --version",
+    "resultRegx": "julia version (\\d+\\.\\d+\\.\\d+)"
+  }
+}
