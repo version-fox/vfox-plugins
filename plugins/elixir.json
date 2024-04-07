@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/yeshan333/vfox-elixir/releases/download/manifest/manifest.json",
+  "notes": [
+    ""
+  ],
+  "description": "Elixir vfox plugin, support for managing multiple Elixir language versions.",
+  "downloadUrl": "https://github.com/yeshan333/vfox-elixir/releases/download/v0.3.0/vfox-elixir-0.3.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "elixir",
+  "homepage": "https://github.com/version-fox/vfox-elixir",
+  "license": "Apache 2.0",
+  "version": "0.3.0"
+}
