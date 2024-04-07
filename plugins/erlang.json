@@ -1,0 +1,9 @@
+{
+  "name": "erlang",
+  "manifestUrl": "https://github.com/version-fox/vfox-erlang/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "26.2.2",
+    "check": "echo $PATH",
+    "resultRegx": "v-26.2.2"
+  }
+}
