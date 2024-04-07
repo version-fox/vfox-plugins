@@ -1,0 +1,9 @@
+{
+  "name": "kubectl",
+  "manifestUrl": "https://github.com/ahai-code/vfox-kubectl/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.29.1",
+    "check": "kubectl version --client",
+    "resultRegx": "GitVersion:\"v(\\d+\\.\\d+\\.\\d+)\""
+  }
+}

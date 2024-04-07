@@ -1,0 +1,9 @@
+{
+  "name": "protobuf",
+  "manifestUrl": "https://github.com/ahai-code/vfox-protobuf/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "26.0",
+    "check": "protoc --version",
+    "resultRegx": "libprotoc (\\d+\\.\\d+)"
+  }
+}

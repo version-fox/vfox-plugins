@@ -1,0 +1,9 @@
+{
+  "name": "vlang",
+  "manifestUrl": "https://github.com/ahai-code/vfox-vlang/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "0.4.5",
+    "check": "v --version",
+    "resultRegx": "V (\\d+\\.\\d+\\.\\d+)"
+  }
+}
