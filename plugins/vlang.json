@@ -2,10 +2,10 @@
   "manifestUrl": "https://github.com/version-fox/ahai-code/vfox-vlang/releases/download/manifest/manifest.json",
   "notes": [],
   "description": "Vlang plugin",
-  "downloadUrl": "https://github.com/ahai-code/vfox-vlang/releases/download/v0.1.1/vfox-vlang-0.1.1.zip",
+  "downloadUrl": "https://github.com/ahai-code/vfox-vlang/releases/download/v0.1.2/vfox-vlang-0.1.2.zip",
   "minRuntimeVersion": "0.3.2",
   "name": "vlang",
   "homepage": "https://github.com/ahai-code/vfox-vlang",
   "license": "Apache 2.0",
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
