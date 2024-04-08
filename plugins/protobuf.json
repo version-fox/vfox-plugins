@@ -2,10 +2,10 @@
   "manifestUrl": "https://github.com/ahai-code/vfox-protobuf/releases/download/manifest/manifest.json",
   "notes": [],
   "description": "Protobuf plugin, https://github.com/protocolbuffers/protobuf#protobuf-compiler-installation",
-  "downloadUrl": "https://github.com/ahai-code/vfox-protobuf/releases/download/v0.1.0/vfox-protobuf-0.1.0.zip",
+  "downloadUrl": "https://github.com/ahai-code/vfox-protobuf/releases/download/v0.1.1/vfox-protobuf-0.1.1.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "protobuf",
   "homepage": "https://github.com/ahai-code/vfox-protobuf",
   "license": "Apache 2.0",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
