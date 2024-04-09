@@ -3,13 +3,21 @@
 { "name": "dart", "desc": "dart plugin, support for getting stable, dev, beta version", "homepage": "https://github.com/version-fox/vfox-dart" },
 { "name": "deno", "desc": "Deno plugin, https://deno.com/", "homepage": "https://github.com/version-fox/vfox-deno" },
 { "name": "dotnet", "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0", "homepage": "https://github.com/version-fox/vfox-dotnet" },
+{ "name": "elixir", "desc": "Elixir vfox plugin, support for managing multiple Elixir language versions.", "homepage": "https://github.com/version-fox/vfox-elixir" },
 { "name": "erlang", "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions.", "homepage": "https://github.com/version-fox/vfox-erlang" },
 { "name": "flutter", "desc": "Flutter plugin, https://flutter.dev", "homepage": "https://github.com/version-fox/vfox-flutter" },
+{ "name": "golang", "desc": "Golang plugin, https://go.dev/dl/", "homepage": "https://github.com/version-fox/vfox-golang" },
 { "name": "gradle", "desc": "Gradle runtime environment.", "homepage": "https://github.com/version-fox/vfox-gradle" },
+{ "name": "groovy", "desc": "Groovy plugin, https://groovy.apache.org/", "homepage": "https://github.com/version-fox/vfox-groovy" },
+{ "name": "java", "desc": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.", "homepage": "https://github.com/version-fox/vfox-java" },
 { "name": "julia", "desc": "Julia plugin, https://julialang.org/", "homepage": "https://github.com/ahai-code/vfox-julia" },
 { "name": "kotlin", "desc": "Kotlin plugin", "homepage": "https://github.com/version-fox/vfox-kotlin" },
 { "name": "kubectl", "desc": "Kubectl plugin", "homepage": "https://github.com/ahai-code/vfox-kubectl" },
 { "name": "maven", "desc": "Maven runtime environment.", "homepage": "https://github.com/version-fox/vfox-maven" },
 { "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" },
-{ "name": "vlang", "desc": "Vlang plugin", "homepage": "https://github.com/ahai-code/vfox-vlang" }
+{ "name": "protobuf", "desc": "Protobuf plugin, https://github.com/protocolbuffers/protobuf#protobuf-compiler-installation", "homepage": "https://github.com/ahai-code/vfox-protobuf" },
+{ "name": "python", "desc": "Python language support, https://www.python.org", "homepage": "https://github.com/version-fox/vfox-python" },
+{ "name": "scala", "desc": "Scala plugin, https://www.scala-lang.org/", "homepage": "https://github.com/version-fox/vfox-scala" },
+{ "name": "vlang", "desc": "Vlang plugin", "homepage": "https://github.com/ahai-code/vfox-vlang" },
+{ "name": "zig", "desc": "Zig runtime environment.", "homepage": "https://github.com/version-fox/vfox-zig" }
 ]
