@@ -1,0 +1,9 @@
+{
+  "name": "mongo",
+  "manifestUrl": "https://github.com/yeshan333/vfox-mongo/releases/download/manifest/manifest.json",
+  "test": {
+      "version": "macos-x86_64-7.3.1",
+      "check": "mongod --version",
+      "resultRegx": "db version: v(\\d+\\.\\d+)"
+  }
+}
