@@ -1,5 +1,5 @@
 {
-  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.1.2/vfox-java-0.1.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.2.0/vfox-java-0.2.0.zip",
   "notes": [
     "Listed below are the supported distributions and their short names.",
     " - Oracle:     x.y.z-oracle",
@@ -9,7 +9,7 @@
     " - Zulu:       x.y.z-zulu",
     "Others please see: https://github.com/version-fox/vfox-java"
   ],
-  "version": "0.1.2",
+  "version": "0.2.0",
   "homepage": "https://github.com/version-fox/vfox-java",
   "minRuntimeVersion": "0.3.0",
   "license": "Apache 2.0",
