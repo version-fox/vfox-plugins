@@ -1,0 +1,9 @@
+{
+  "name": "etcd",
+  "manifestUrl": "https://github.com/version-fox/vfox-etcd/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.5.13",
+    "check": "etcd -version",
+    "resultRegx": "etcd Version: (\\d+\\.\\d+)"
+  }
+}
