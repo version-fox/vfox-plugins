@@ -9,6 +9,7 @@
 { "name": "golang", "desc": "Golang plugin, https://go.dev/dl/", "homepage": "https://github.com/version-fox/vfox-golang" },
 { "name": "gradle", "desc": "Gradle runtime environment.", "homepage": "https://github.com/version-fox/vfox-gradle" },
 { "name": "groovy", "desc": "Groovy plugin, https://groovy.apache.org/", "homepage": "https://github.com/version-fox/vfox-groovy" },
+{ "name": "java", "desc": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.", "homepage": "https://github.com/version-fox/vfox-java" },
 { "name": "julia", "desc": "Julia plugin, https://julialang.org/", "homepage": "https://github.com/ahai-code/vfox-julia" },
 { "name": "kotlin", "desc": "Kotlin plugin", "homepage": "https://github.com/version-fox/vfox-kotlin" },
 { "name": "kubectl", "desc": "Kubectl plugin", "homepage": "https://github.com/ahai-code/vfox-kubectl" },
