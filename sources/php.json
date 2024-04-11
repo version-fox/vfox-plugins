@@ -1,0 +1,9 @@
+{
+  "name": "php",
+  "manifestUrl": "https://github.com/version-fox/vfox-php/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "8.3.3",
+    "check": " php -v",
+    "resultRegx": "\\b\\d+(\\.\\d+){2}\\b"
+  }
+}
