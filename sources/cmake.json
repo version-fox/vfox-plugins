@@ -1,0 +1,9 @@
+{
+  "name": "cmake",
+  "manifestUrl": "https://github.com/version-fox/vfox-cmake/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.29.1",
+    "check": "cmake --version",
+    "resultRegx": "cmake version (\\d+\\.\\d+\\.\\d+)"
+  }
+}
