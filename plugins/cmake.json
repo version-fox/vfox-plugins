@@ -4,10 +4,10 @@
     "Supports version 3.0 and above."
   ],
   "description": "Cmake plugin, https://cmake.org/",
-  "downloadUrl": "https://github.com/version-fox/vfox-cmake/releases/download/v0.1.0/vfox-cmake-0.1.0.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-cmake/releases/download/v0.1.2/vfox-cmake-0.1.2.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "cmake",
   "homepage": "https://github.com/version-fox/vfox-cmake",
   "license": "Apache 2.0",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
