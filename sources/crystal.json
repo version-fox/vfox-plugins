@@ -2,8 +2,8 @@
   "name": "crystal",
   "manifestUrl": "https://github.com/yanecc/vfox-crystal/releases/download/manifest/manifest.json",
   "test": {
-    "version": "21.7.1",
-    "check": "node -v",
-    "resultRegx": "v21.7.1"
+    "version": "1.12.1",
+    "check": "crystal version",
+    "resultRegx": "Crystal 1.12.1[\\s\\S]*"
   }
 }
