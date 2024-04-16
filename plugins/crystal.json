@@ -1,0 +1,10 @@
+{
+  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download/0.1.0/vfox-crystal_0.1.0.zip",
+  "notes": [],
+  "version": "0.1.0",
+  "homepage": "https://github.com/yanecc/vfox-crystal",
+  "minRuntimeVersion": "0.3.0",
+  "license": "Apache 2.0",
+  "description": "Crystal language plugin for vfox",
+  "name": "crystal"
+}
