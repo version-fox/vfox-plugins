@@ -1,0 +1,9 @@
+{
+  "name": "crystal",
+  "manifestUrl": "https://github.com/yanecc/vfox-crystal/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.12.1",
+    "check": "crystal version",
+    "resultRegx": "Crystal 1.12.1[\\s\\S]*"
+  }
+}
