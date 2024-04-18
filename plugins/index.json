@@ -1,7 +1,7 @@
 [
 { "name": "bun", "desc": "Bun plugin, https://bun.sh/", "homepage": "https://github.com/ahai-code/vfox-bun" },
 { "name": "cmake", "desc": "Cmake plugin, https://cmake.org/", "homepage": "https://github.com/version-fox/vfox-cmake" },
-{ "name": "crystal", "desc": "Crystal plugin, https://crystal-lang.org<br />Supports >= 0.24.2 and nightly build", "homepage": "https://github.com/yanecc/vfox-crystal" },
+{ "name": "crystal", "desc": "Crystal plugin, https://crystal-lang.org\<br\>Supports ≥ 0.24.2 and nightly build", "homepage": "https://github.com/yanecc/vfox-crystal" },
 { "name": "dart", "desc": "dart plugin, support for getting stable, dev, beta version", "homepage": "https://github.com/version-fox/vfox-dart" },
 { "name": "deno", "desc": "Deno plugin, https://deno.com/", "homepage": "https://github.com/version-fox/vfox-deno" },
 { "name": "dotnet", "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0", "homepage": "https://github.com/version-fox/vfox-dotnet" },
