@@ -1,9 +1,9 @@
 {
-  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download/0.3.2/vfox-crystal_0.3.2.zip",
+  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download/0.4.0/vfox-crystal_0.4.0.zip",
   "notes": [
     "Modify the ~/.version-fox/plugin/crystal/lib/util.lua file to set GitHub token for a higher rate limit before formal use."
   ],
-  "version": "0.3.2",
+  "version": "0.4.0",
   "homepage": "https://github.com/yanecc/vfox-crystal",
   "minRuntimeVersion": "0.3.0",
   "license": "Apache 2.0",
