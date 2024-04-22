@@ -1,10 +1,14 @@
 {
-  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.2.2/vfox-nodejs-0.2.2.zip",
   "notes": [],
-  "version": "0.2.2",
-  "homepage": "https://github.com/version-fox/vfox-nodejs",
-  "minRuntimeVersion": "0.3.0",
-  "license": "Apache 2.0",
   "description": "Node.js runtime environment.",
-  "name": "nodejs"
+  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.3.0/vfox-nodejs-0.3.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "nodejs",
+  "homepage": "https://github.com/version-fox/vfox-nodejs",
+  "license": "Apache 2.0",
+  "legacyFilenames": [
+    ".node-version",
+    ".nvmrc"
+  ],
+  "version": "0.3.0"
 }
