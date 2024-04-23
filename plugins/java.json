@@ -9,7 +9,7 @@
     "Others please see: https://github.com/version-fox/vfox-java"
   ],
   "description": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
-  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.4.1/vfox-java-0.4.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.4.2/vfox-java-0.4.2.zip",
   "minRuntimeVersion": "0.4.0",
   "name": "java",
   "homepage": "https://github.com/version-fox/vfox-java",
@@ -17,5 +17,5 @@
   "legacyFilenames": [
     ".sdkmanrc"
   ],
-  "version": "0.4.1"
+  "version": "0.4.2"
 }
