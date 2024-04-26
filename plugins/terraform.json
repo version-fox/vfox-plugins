@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-plugin-template/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Terraform plugin, https://www.terraform.io/",
+  "downloadUrl": "https://github.com/enochchau/vfox-terraform/releases/download/v0.0.1/vfox-terraform-0.0.1.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "terraform",
+  "homepage": "https://github.com/enochchau/vfox-terraform",
+  "license": "Apache 2.0",
+  "legacyFilenames": [],
+  "version": "0.0.1"
+}
