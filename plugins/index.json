@@ -23,6 +23,7 @@
 { "name": "protobuf", "desc": "Protobuf plugin, https://github.com/protocolbuffers/protobuf#protobuf-compiler-installation", "homepage": "https://github.com/ahai-code/vfox-protobuf" },
 { "name": "python", "desc": "Python language support, https://www.python.org", "homepage": "https://github.com/version-fox/vfox-python" },
 { "name": "scala", "desc": "Scala plugin, https://www.scala-lang.org/", "homepage": "https://github.com/version-fox/vfox-scala" },
+{ "name": "terraform", "desc": "Terraform plugin, https://www.terraform.io/", "homepage": "https://github.com/enochchau/vfox-terraform" },
 { "name": "vlang", "desc": "Vlang plugin", "homepage": "https://github.com/ahai-code/vfox-vlang" },
 { "name": "zig", "desc": "Zig runtime environment.", "homepage": "https://github.com/version-fox/vfox-zig" }
 ]
