@@ -1,11 +1,11 @@
 {
-  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download/0.4.2/vfox-crystal_0.4.2.zip",
+  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download//",
   "notes": [
     ""
   ],
-  "version": "0.4.2",
+  "version": "",
   "homepage": "https://github.com/yanecc/vfox-crystal",
-  "minRuntimeVersion": "0.3.0",
+  "minRuntimeVersion": "0.5.0",
   "license": "Apache 2.0",
   "description": "Crystal plugin, supports version ≥ 0.24.2 and nightly builds, https://crystal-lang.org",
   "name": "crystal"
