@@ -1,9 +1,9 @@
 {
-  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download//",
+  "downloadUrl": "https://github.com/yanecc/vfox-crystal/releases/download/0.5.0/vfox-crystal_0.5.0.zip",
   "notes": [
     ""
   ],
-  "version": "",
+  "version": "0.5.0",
   "homepage": "https://github.com/yanecc/vfox-crystal",
   "minRuntimeVersion": "0.5.0",
   "license": "Apache 2.0",
