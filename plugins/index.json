@@ -6,7 +6,7 @@
 { "name": "deno", "desc": "Deno plugin, https://deno.com/", "homepage": "https://github.com/version-fox/vfox-deno" },
 { "name": "dotnet", "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0", "homepage": "https://github.com/version-fox/vfox-dotnet" },
 { "name": "elixir", "desc": "Elixir vfox plugin, support for managing multiple Elixir language versions.", "homepage": "https://github.com/version-fox/vfox-elixir" },
-{ "name": "erlang", "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions.", "homepage": "https://github.com/version-fox/vfox-erlang" },
+{ "name": "erlang", "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions in Windows & Uinx-like system.", "homepage": "https://github.com/version-fox/vfox-erlang" },
 { "name": "etcd", "desc": "Etcd vfox plugin, support for managing multiple Etcd versions.", "homepage": "https://github.com/version-fox/vfox-etcd" },
 { "name": "flutter", "desc": "Flutter plugin, https://flutter.dev", "homepage": "https://github.com/version-fox/vfox-flutter" },
 { "name": "golang", "desc": "Golang plugin, https://go.dev/dl/", "homepage": "https://github.com/version-fox/vfox-golang" },
