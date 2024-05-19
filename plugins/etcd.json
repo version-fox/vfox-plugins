@@ -3,11 +3,11 @@
   "notes": [
     ""
   ],
-  "description": "Etcd vfox plugin, support for managing multiple Etcd versions.",
-  "downloadUrl": "https://github.com/version-fox/vfox-etcd/releases/download/v0.1.0/vfox-etcd-0.1.0.zip",
+  "description": "etcd vfox plugin. Use the vfox to manage multiple etcd server & etcdctl & etcductl versions in Linux/Darwin/Windows. Also can be used to install an etcd with failpoint.",
+  "downloadUrl": "https://github.com/version-fox/vfox-etcd/releases/download/v0.2.0/vfox-etcd-0.2.0.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "etcd",
   "homepage": "https://github.com/version-fox/vfox-etcd",
   "license": "Apache 2.0",
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
