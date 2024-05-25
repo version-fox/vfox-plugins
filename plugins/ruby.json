@@ -1,0 +1,10 @@
+{
+  "name": "ruby",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yanecc/vfox-ruby",
+  "downloadUrl": "https://github.com/yanecc/vfox-ruby/releases/download/0.1.0/vfox-ruby_0.1.0.zip",
+  "description": "Ruby plugin, https://www.ruby-lang.org",
+  "notes": [],
+  "license": "Apache 2.0",
+  "minRuntimeVersion": "0.5.0"
+}
