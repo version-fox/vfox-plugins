@@ -1,0 +1,9 @@
+{
+  "name": "ruby",
+  "manifestUrl": "https://github.com/yanecc/vfox-ruby/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "3.2.2",
+    "check": "ruby -v",
+    "resultRegx": "ruby 3.2.2.+"
+  }
+}
