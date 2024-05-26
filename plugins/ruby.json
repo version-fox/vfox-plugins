@@ -1,8 +1,8 @@
 {
   "name": "ruby",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/yanecc/vfox-ruby",
-  "downloadUrl": "https://github.com/yanecc/vfox-ruby/releases/download/0.2.2/vfox-ruby_0.2.2.zip",
+  "downloadUrl": "https://github.com/yanecc/vfox-ruby/releases/download/0.2.3/vfox-ruby_0.2.3.zip",
   "description": "Ruby plugin, https://www.ruby-lang.org",
   "notes": [],
   "license": "Apache 2.0",
