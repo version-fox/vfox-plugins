@@ -1,0 +1,10 @@
+{
+  "name": "clang",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yanecc/vfox-clang",
+  "downloadUrl": "https://github.com/yanecc/vfox-clang/releases/download/0.1.0/vfox-clang_0.1.0.zip",
+  "description": "Clang plugin, https://clang.llvm.org",
+  "notes": [],
+  "license": "Apache 2.0",
+  "minRuntimeVersion": "0.5.0"
+}
