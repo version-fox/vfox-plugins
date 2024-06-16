@@ -1,0 +1,9 @@
+{
+  "name": "clang",
+  "manifestUrl": "https://github.com/yanecc/vfox-clang/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "18.1.7",
+    "check": "clang --version",
+    "resultRegx": "clang version 18.1.7[\\s\\S]+"
+  }
+}
