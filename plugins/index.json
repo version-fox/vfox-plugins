@@ -4,7 +4,6 @@
 { "name": "cmake", "desc": "Cmake plugin, https://cmake.org/", "homepage": "https://github.com/version-fox/vfox-cmake" },
 { "name": "crystal", "desc": "Crystal plugin, supports version ≥ 0.24.2 and nightly builds, https://crystal-lang.org", "homepage": "https://github.com/yanecc/vfox-crystal" },
 { "name": "dart", "desc": "dart plugin, support for getting stable, dev, beta version", "homepage": "https://github.com/version-fox/vfox-dart" },
-{ "name": "deno", "desc": "Deno plugin, https://deno.com/", "homepage": "https://github.com/version-fox/vfox-deno" },
 { "name": "dotnet", "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0", "homepage": "https://github.com/version-fox/vfox-dotnet" },
 { "name": "elixir", "desc": "Elixir vfox plugin, support for managing multiple Elixir language versions in Windows & Uinx-like system.", "homepage": "https://github.com/version-fox/vfox-elixir" },
 { "name": "erlang", "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions in Windows & Uinx-like system.", "homepage": "https://github.com/version-fox/vfox-erlang" },
