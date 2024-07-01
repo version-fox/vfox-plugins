@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://github.com/version-fox/vfox-flutter/releases/download/v0.1.1/vfox-flutter-0.1.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-flutter/releases/download/v0.2.0/vfox-flutter-0.2.0.zip",
   "notes": [],
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/version-fox/vfox-flutter",
   "minRuntimeVersion": "0.3.0",
   "license": "Apache 2.0",
