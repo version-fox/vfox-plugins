@@ -1,8 +1,8 @@
 {
   "name": "clang",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/version-fox/vfox-clang",
-  "downloadUrl": "https://github.com/version-fox/vfox-clang/releases/download/0.1.1/vfox-clang_0.1.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-clang/releases/download/0.1.2/vfox-clang_0.1.2.zip",
   "description": "Clang plugin, https://clang.llvm.org",
   "notes": [],
   "license": "Apache 2.0",
