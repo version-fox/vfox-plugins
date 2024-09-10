@@ -11,7 +11,6 @@
 { "name": "etcd", "desc": "etcd vfox plugin. Use the vfox to manage multiple etcd server & etcdctl & etcductl versions in Linux/Darwin/Windows. Also can be used to install an etcd with failpoint.", "homepage": "https://github.com/version-fox/vfox-etcd" },
 { "name": "flutter", "desc": "Flutter plugin, https://flutter.dev", "homepage": "https://github.com/version-fox/vfox-flutter" },
 { "name": "golang", "desc": "Golang plugin, https://go.dev/dl/", "homepage": "https://github.com/version-fox/vfox-golang" },
-{ "name": "gradle", "desc": "Gradle runtime environment.", "homepage": "https://github.com/version-fox/vfox-gradle" },
 { "name": "groovy", "desc": "Groovy plugin, https://groovy.apache.org/", "homepage": "https://github.com/version-fox/vfox-groovy" },
 { "name": "java", "desc": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.", "homepage": "https://github.com/version-fox/vfox-java" },
 { "name": "julia", "desc": "Julia plugin, https://julialang.org/", "homepage": "https://github.com/ahai-code/vfox-julia" },
