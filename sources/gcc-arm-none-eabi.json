@@ -1,0 +1,9 @@
+{
+    "name": "gcc-arm-none-eabi",
+    "manifestUrl": "https://github.com/leoli0605/vfox-gcc-arm-none-eabi/releases/download/manifest/manifest.json",
+    "test": {
+      "version": "13.3.Rel1",
+      "check": "arm-none-eabi-gcc --version",
+      "resultRegx": "13\\.3\\.Rel1"
+    }
+  }
