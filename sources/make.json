@@ -1,0 +1,9 @@
+{
+    "name": "make",
+    "manifestUrl": "https://github.com/leoli0605/vfox-make/releases/download/manifest/manifest.json",
+    "test": {
+      "version": "4.4.1",
+      "check": "make --version",
+      "resultRegx": "4\\.4\\.1"
+    }
+  }
