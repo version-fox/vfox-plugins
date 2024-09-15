@@ -1,0 +1,9 @@
+{
+    "name": "ninja",
+    "manifestUrl": "https://github.com/leoli0605/vfox-ninja/releases/download/manifest/manifest.json",
+    "test": {
+      "version": "1.12.1",
+      "check": "ninja --version",
+      "resultRegx": "1\\.12\\.1"
+    }
+  }
