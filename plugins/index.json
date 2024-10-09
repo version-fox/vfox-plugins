@@ -17,7 +17,6 @@
 { "name": "julia", "desc": "Julia plugin, https://julialang.org/", "homepage": "https://github.com/ahai-code/vfox-julia" },
 { "name": "kotlin", "desc": "Kotlin plugin", "homepage": "https://github.com/version-fox/vfox-kotlin" },
 { "name": "kubectl", "desc": "Kubectl plugin", "homepage": "https://github.com/ahai-code/vfox-kubectl" },
-{ "name": "maven", "desc": "Maven runtime environment.", "homepage": "https://github.com/version-fox/vfox-maven" },
 { "name": "mongo", "desc": "mongo vfox plugin, support for managing multiple mongo versions.", "homepage": "https://github.com/yeshan333/vfox-mongo" },
 { "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" },
 { "name": "php", "desc": "php plugin", "homepage": "https://github.com/version-fox/vfox-php" },
