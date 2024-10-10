@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-plugin-template/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Arm GNU Toolchain bare-metal target (arm-none-eabi) plugin for the vfox version manager",
+  "downloadUrl": "https://github.com/leoli0605/vfox-gcc-arm-none-eabi/releases/download/v1.0.0/vfox-gcc-arm-none-eabi-1.0.0.zip",
+  "minRuntimeVersion": "0.6.0",
+  "name": "gcc-arm-none-eabi",
+  "homepage": "https://github.com/leoli0605/vfox-gcc-arm-none-eabi",
+  "license": "Apache 2.0",
+  "legacyFilenames": [],
+  "version": "1.0.0"
+}
