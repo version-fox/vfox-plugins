@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-plugin-template/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "GNU Make plugin for the vfox version manager",
+  "downloadUrl": "https://github.com/leoli0605/vfox-make/releases/download/v0.1.0/vfox-make-0.1.0.zip",
+  "minRuntimeVersion": "0.5.0",
+  "name": "make",
+  "homepage": "https://github.com/leoli0605/vfox-make",
+  "license": "Apache 2.0",
+  "legacyFilenames": [],
+  "version": "0.1.0"
+}
