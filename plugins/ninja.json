@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-plugin-template/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Ninja plugin for the vfox version manager",
+  "downloadUrl": "https://github.com/leoli0605/vfox-ninja/releases/download/v0.1.0/vfox-ninja-0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "ninja",
+  "homepage": "https://github.com/leoli0605/vfox-ninja",
+  "license": "Apache 2.0",
+  "legacyFilenames": [],
+  "version": "0.1.0"
+}
