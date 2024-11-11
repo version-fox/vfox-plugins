@@ -20,6 +20,7 @@
 { "name": "kubectl", "desc": "Kubectl plugin", "homepage": "https://github.com/ahai-code/vfox-kubectl" },
 { "name": "make", "desc": "GNU Make plugin for the vfox version manager", "homepage": "https://github.com/leoli0605/vfox-make" },
 { "name": "maven", "desc": "Maven runtime environment.", "homepage": "https://github.com/version-fox/vfox-maven" },
+{ "name": "mongo", "desc": "mongo vfox plugin, support for managing multiple mongo versions.", "homepage": "https://github.com/yeshan333/vfox-mongo" },
 { "name": "ninja", "desc": "Ninja plugin for the vfox version manager", "homepage": "https://github.com/leoli0605/vfox-ninja" },
 { "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" },
 { "name": "php", "desc": "php plugin", "homepage": "https://github.com/version-fox/vfox-php" },
