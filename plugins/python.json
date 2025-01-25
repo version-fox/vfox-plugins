@@ -1,12 +1,12 @@
 {
-  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.3.1/vfox-python-0.3.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.4.0/vfox-python-0.4.0.zip",
   "notes": [
     "Mirror Setting:",
     "You can use VFOX_PYTHON_MIRROR environment variable to set mirror.",
     "eg: `export VFOX_PYTHON_MIRROR=https://mirrors.huaweicloud.com/python/`",
     " "
   ],
-  "version": "0.3.1",
+  "version": "0.4.0",
   "homepage": "https://github.com/version-fox/vfox-python",
   "minRuntimeVersion": "0.4.0",
   "license": "Apache 2.0",
