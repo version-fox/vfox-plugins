@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-lua/releases/download/manifest/manifest.json",
+  "notes": [
+    ""
+  ],
+  "description": "lua vfox plugin. Use the vfox to manage multiple lua versions in Linux/Darwin.",
+  "downloadUrl": "https://github.com/yeshan333/vfox-lua/releases/download/v0.1.0/vfox-lua-0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "lua",
+  "homepage": "https://github.com/yeshan333/vfox-lua",
+  "license": "Apache 2.0",
+  "version": "0.1.0"
+}
