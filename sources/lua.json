@@ -1,0 +1,9 @@
+{
+    "name": "lua",
+    "manifestUrl": "https://github.com/yeshan333/vfox-lua/releases/download/manifest/manifest.json",
+    "test": {
+      "version": "5.4.7",
+      "check": "lua -v",
+      "resultRegx": "Lua 5.4.7[\\s\\S]*"
+    }
+  }
