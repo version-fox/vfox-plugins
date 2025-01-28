@@ -1,6 +1,7 @@
 [
 { "name": "bun", "desc": "Bun plugin, https://bun.sh/", "homepage": "https://github.com/ahai-code/vfox-bun" },
 { "name": "clang", "desc": "Clang plugin, https://clang.llvm.org", "homepage": "https://github.com/version-fox/vfox-clang" },
+{ "name": "cmake", "desc": "Cmake plugin, https://cmake.org/", "homepage": "https://github.com/version-fox/vfox-cmake" },
 { "name": "crystal", "desc": "Crystal plugin, supports version ≥ 0.24.2 and nightly builds, https://crystal-lang.org", "homepage": "https://github.com/yanecc/vfox-crystal" },
 { "name": "dart", "desc": "dart plugin, support for getting stable, dev, beta version", "homepage": "https://github.com/version-fox/vfox-dart" },
 { "name": "deno", "desc": "Deno plugin, https://deno.com/", "homepage": "https://github.com/version-fox/vfox-deno" },
