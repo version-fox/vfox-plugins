@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://github.com/version-fox/vfox-plugin-template/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Vagrant plugin, https://www.vagrantup.com/",
+  "downloadUrl": "https://github.com/johnxu16/vfox-vagrant/releases/download/v0.1.0/vfox-vagrant-0.1.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "vagrant",
+  "homepage": "https://github.com/johnxu16/vfox-vagrant",
+  "license": "Apache 2.0",
+  "legacyFilenames": [],
+  "version": "0.1.0"
+}
