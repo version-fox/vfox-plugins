@@ -1,0 +1,9 @@
+{
+  "name": "vagrant",
+  "manifestUrl": "https://github.com/johnxu16/vfox-vagrant/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "2.4.3",
+    "check": "vagrant -v",
+    "resultRegx": "Vagrant 2.4.3"
+  }
+}
