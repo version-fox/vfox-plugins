@@ -30,6 +30,7 @@
 { "name": "ruby", "desc": "Ruby plugin, https://www.ruby-lang.org", "homepage": "https://github.com/yanecc/vfox-ruby" },
 { "name": "scala", "desc": "Scala plugin, https://www.scala-lang.org/", "homepage": "https://github.com/version-fox/vfox-scala" },
 { "name": "terraform", "desc": "Terraform plugin, https://www.terraform.io/", "homepage": "https://github.com/enochchau/vfox-terraform" },
+{ "name": "vagrant", "desc": "Vagrant plugin, https://www.vagrantup.com/", "homepage": "https://github.com/johnxu16/vfox-vagrant" },
 { "name": "vlang", "desc": "Vlang plugin", "homepage": "https://github.com/ahai-code/vfox-vlang" },
 { "name": "zig", "desc": "Zig runtime environment.", "homepage": "https://github.com/version-fox/vfox-zig" }
 ]
