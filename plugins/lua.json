@@ -3,11 +3,11 @@
   "notes": [
     ""
   ],
-  "description": "lua vfox plugin. Use the vfox to manage multiple lua versions in Linux/Darwin.",
-  "downloadUrl": "https://github.com/yeshan333/vfox-lua/releases/download/v0.1.0/vfox-lua-0.1.0.zip",
+  "description": "lua vfox plugin. Use the vfox to manage multiple lua versions on Linux /Darwin MacOS / Windows.",
+  "downloadUrl": "https://github.com/yeshan333/vfox-lua/releases/download/v1.0.0/vfox-lua-1.0.0.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "lua",
   "homepage": "https://github.com/yeshan333/vfox-lua",
   "license": "Apache 2.0",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
