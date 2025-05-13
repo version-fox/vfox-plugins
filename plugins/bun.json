@@ -1,11 +1,11 @@
 {
-  "manifestUrl": "https://github.com/ahai-code/vfox-bun/releases/download/manifest/manifest.json",
+  "manifestUrl": "https://github.com/arfaWong/vfox-bun/releases/download/manifest/manifest.json",
   "notes": [],
   "description": "Bun plugin, https://bun.sh/",
-  "downloadUrl": "https://github.com/ahai-code/vfox-bun/releases/download/v0.1.2/vfox-bun-0.1.2.zip",
+  "downloadUrl": "https://github.com/arfaWong/vfox-bun/releases/download/v0.1.3/vfox-bun-0.1.3.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "bun",
-  "homepage": "https://github.com/ahai-code/vfox-bun",
+  "homepage": "https://github.com/arfaWong/vfox-bun",
   "license": "Apache 2.0",
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
