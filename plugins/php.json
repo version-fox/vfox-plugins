@@ -6,10 +6,10 @@
     "For more detailed, please refer to https://github.com/version-fox/vfox-php/blob/main/README.md"
   ],
   "description": "php plugin",
-  "downloadUrl": "https://github.com/version-fox/vfox-php/releases/download/v0.1.1/vfox-php-0.1.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-php/releases/download/v0.2.1/vfox-php-0.2.1.zip",
   "minRuntimeVersion": "0.3.2",
   "name": "php",
   "homepage": "https://github.com/version-fox/vfox-php",
   "license": "Apache 2.0",
-  "version": "0.1.1"
+  "version": "0.2.1"
 }
