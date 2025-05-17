@@ -24,6 +24,7 @@
 { "name": "mongo", "desc": "mongo vfox plugin, support for managing multiple mongo versions.", "homepage": "https://github.com/yeshan333/vfox-mongo" },
 { "name": "ninja", "desc": "Ninja plugin for the vfox version manager", "homepage": "https://github.com/leoli0605/vfox-ninja" },
 { "name": "nodejs", "desc": "Node.js runtime environment.", "homepage": "https://github.com/version-fox/vfox-nodejs" },
+{ "name": "php", "desc": "php plugin", "homepage": "https://github.com/version-fox/vfox-php" },
 { "name": "protobuf", "desc": "Protobuf plugin, https://github.com/protocolbuffers/protobuf#protobuf-compiler-installation", "homepage": "https://github.com/ahai-code/vfox-protobuf" },
 { "name": "python", "desc": "Python language support, https://www.python.org", "homepage": "https://github.com/version-fox/vfox-python" },
 { "name": "ruby", "desc": "Ruby plugin, https://www.ruby-lang.org", "homepage": "https://github.com/yanecc/vfox-ruby" },
