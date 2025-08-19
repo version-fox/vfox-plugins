@@ -10,7 +10,7 @@
 { "name": "erlang", "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions in Windows & Uinx-like system.", "homepage": "https://github.com/version-fox/vfox-erlang" },
 { "name": "etcd", "desc": "etcd vfox plugin. Use the vfox to manage multiple etcd server & etcdctl & etcductl versions in Linux/Darwin/Windows. Also can be used to install an etcd with failpoint.", "homepage": "https://github.com/version-fox/vfox-etcd" },
 { "name": "flutter", "desc": "Flutter plugin, https://flutter.dev", "homepage": "https://github.com/version-fox/vfox-flutter" },
-{ "name": "gcc-arm-none-eabi", "desc": "Arm GNU Toolchain bare-metal target (arm-none-eabi) plugin for the vfox version manager", "homepage": "https://github.com/leoli0605/vfox-gcc-arm-none-eabi" },
+{ "name": "gcc-arm-none-eabi", "desc": "Arm GNU Toolchain bare-metal target (arm-none-eabi) plugin for the vfox version manager", "homepage": "https://github.com/leoliu0605/vfox-gcc-arm-none-eabi" },
 { "name": "golang", "desc": "Golang plugin, https://go.dev/dl/", "homepage": "https://github.com/version-fox/vfox-golang" },
 { "name": "gradle", "desc": "Gradle runtime environment.", "homepage": "https://github.com/version-fox/vfox-gradle" },
 { "name": "groovy", "desc": "Groovy plugin, https://groovy.apache.org/", "homepage": "https://github.com/version-fox/vfox-groovy" },
