@@ -1,0 +1,9 @@
+{
+  "name": "rust",
+  "manifestUrl": "https://github.com/xzzyassin/vfox-rust/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.90.0",
+    "check": "rustc --version",
+    "resultRegx": "rustc (\\d+\\.\\d+\\.\\d+) \\(\\w+ \\d{4}-\\d{2}-\\d{2}\\)"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://github.com/XZzYassin/vfox-rust/releases/download/manifest/manifest.json",
+  "notes": [],
+  "description": "Rust plugin https://releases.rs/docs/",
+  "downloadUrl": "https://github.com/XZzYassin/vfox-rust/releases/download/v1.0.0/vfox-rust-1.0.0.zip",
+  "minRuntimeVersion": "0.3.0",
+  "name": "rust",
+  "homepage": "https://github.com/XZzYassin/vfox-rust",
+  "license": "Apache 2.0",
+  "legacyFilenames": [],
+  "version": "1.0.0"
+}
