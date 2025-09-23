@@ -28,6 +28,7 @@
 { "name": "protobuf", "desc": "Protobuf plugin, https://github.com/protocolbuffers/protobuf#protobuf-compiler-installation", "homepage": "https://github.com/ahai-code/vfox-protobuf" },
 { "name": "python", "desc": "Python language support, https://www.python.org", "homepage": "https://github.com/version-fox/vfox-python" },
 { "name": "ruby", "desc": "Ruby plugin, https://www.ruby-lang.org", "homepage": "https://github.com/yanecc/vfox-ruby" },
+{ "name": "rust", "desc": "Rust plugin https://releases.rs/docs/", "homepage": "https://github.com/XZzYassin/vfox-rust" },
 { "name": "scala", "desc": "Scala plugin, https://www.scala-lang.org/", "homepage": "https://github.com/version-fox/vfox-scala" },
 { "name": "terraform", "desc": "Terraform plugin, https://www.terraform.io/", "homepage": "https://github.com/enochchau/vfox-terraform" },
 { "name": "vagrant", "desc": "Vagrant plugin, https://www.vagrantup.com/", "homepage": "https://github.com/johnxu16/vfox-vagrant" },
