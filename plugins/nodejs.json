@@ -1,7 +1,7 @@
 {
   "notes": [],
   "description": "Node.js runtime environment.",
-  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.3.0/vfox-nodejs-0.3.0.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.4.0/vfox-nodejs-0.4.0.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "nodejs",
   "homepage": "https://github.com/version-fox/vfox-nodejs",
@@ -10,5 +10,5 @@
     ".node-version",
     ".nvmrc"
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }
