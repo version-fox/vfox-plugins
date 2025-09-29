@@ -1,15 +1,15 @@
 {
-  "manifestUrl": "https://github.com/version-fox/vfox-php/releases/download/manifest/manifest.json",
+  "downloadUrl": "https://github.com/version-fox/vfox-php/releases/download/v0.3.0/vfox-php-0.3.0.zip",
   "notes": [
     "For macOS and Linux user:",
     "PHP installation requires some dependencies.",
     "For more detailed, please refer to https://github.com/version-fox/vfox-php/blob/main/README.md"
   ],
+  "version": "0.3.0",
   "description": "php plugin",
-  "downloadUrl": "https://github.com/version-fox/vfox-php/releases/download/v0.2.1/vfox-php-0.2.1.zip",
-  "minRuntimeVersion": "0.3.2",
   "name": "php",
+  "minRuntimeVersion": "0.3.2",
+  "manifestUrl": "https://github.com/version-fox/vfox-php/releases/download/manifest/manifest.json",
   "homepage": "https://github.com/version-fox/vfox-php",
-  "license": "Apache 2.0",
-  "version": "0.2.1"
+  "license": "Apache 2.0"
 }
