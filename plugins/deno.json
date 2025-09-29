@@ -1,13 +1,13 @@
 {
+  "name": "deno",
+  "description": "Deno plugin, https://deno.com/",
   "manifestUrl": "https://github.com/version-fox/vfox-deno/releases/download/manifest/manifest.json",
+  "homepage": "https://github.com/version-fox/vfox-deno",
+  "version": "0.2.0",
+  "downloadUrl": "https://github.com/version-fox/vfox-deno/releases/download/v0.2.0/vfox-deno-0.2.0.zip",
+  "license": "Apache 2.0",
   "notes": [
     ""
   ],
-  "description": "Deno plugin, https://deno.com/",
-  "downloadUrl": "https://github.com/version-fox/vfox-deno/releases/download/v0.1.1/vfox-deno-0.1.1.zip",
-  "minRuntimeVersion": "0.3.0",
-  "name": "deno",
-  "homepage": "https://github.com/version-fox/vfox-deno",
-  "license": "Apache 2.0",
-  "version": "0.1.1"
+  "minRuntimeVersion": "0.3.0"
 }
