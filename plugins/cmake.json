@@ -1,13 +1,13 @@
 {
   "manifestUrl": "https://github.com/version-fox/vfox-cmake/releases/download/manifest/manifest.json",
+  "description": "Cmake plugin, https://cmake.org/",
+  "homepage": "https://github.com/version-fox/vfox-cmake",
+  "name": "cmake",
+  "downloadUrl": "https://github.com/version-fox/vfox-cmake/releases/download/v0.1.7/vfox-cmake-0.1.7.zip",
+  "minRuntimeVersion": "0.3.0",
+  "license": "Apache 2.0",
+  "version": "0.1.7",
   "notes": [
     "Supports version 3.0 and above."
-  ],
-  "description": "Cmake plugin, https://cmake.org/",
-  "downloadUrl": "https://github.com/version-fox/vfox-cmake/releases/download/v0.1.5/vfox-cmake-0.1.5.zip",
-  "minRuntimeVersion": "0.3.0",
-  "name": "cmake",
-  "homepage": "https://github.com/version-fox/vfox-cmake",
-  "license": "Apache 2.0",
-  "version": "0.1.5"
+  ]
 }
