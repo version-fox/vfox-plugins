@@ -21,7 +21,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
 
     - name: Run script
       run: bash ./script/update_plugin.sh ./sources ./plugins
@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2 
+      uses: actions/checkout@v5 
       with:
         ref: ${{ github.ref }}
     - name: Run script
