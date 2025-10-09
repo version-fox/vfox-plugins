@@ -1,0 +1,12 @@
+{
+  "manifestUrl": "https://raw.githubusercontent.com/echocat/vfox-mongod/refs/heads/main/manifest.json",
+  "notes": [],
+  "description": "A mise tool plugin for mongod",
+  "downloadUrl": "https://github.com/echocat/vfox-mongod/releases/download/v1.2.2/vfox-mongod-1.2.2.zip",
+  "minRuntimeVersion": "0.5.0",
+  "name": "mongod",
+  "homepage": "https://github.com/echocat/vfox-mongod",
+  "license": "MIT",
+  "legacyFilenames": [],
+  "version": "1.2.2"
+}

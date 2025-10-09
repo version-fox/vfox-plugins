@@ -1,0 +1,9 @@
+{
+  "name": "mongo",
+  "manifestUrl": "https://raw.githubusercontent.com/echocat/vfox-mongod/refs/heads/main/manifest.json",
+  "test": {
+    "version": "8.2.1",
+    "check": "mongod --version",
+    "resultRegx": "db version: v(\\d+\\.\\d+)"
+  }
+}
