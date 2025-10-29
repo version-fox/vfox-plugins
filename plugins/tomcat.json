@@ -1,0 +1,17 @@
+{
+  "description": "Tomcat plugin for vfox.",
+  "legacyFilenames": [],
+  "name": "tomcat",
+  "minRuntimeVersion": "0.3.0",
+  "notes": [
+    "-------- quick start --------",
+    "Search all versions: vfox search tomcat",
+    "Search specific version: vfox search tomcat 8",
+    "Currently defined major versions are [3, new version]"
+  ],
+  "homepage": "https://github.com/sixmillions/vfox-tomcat",
+  "version": "0.0.1",
+  "downloadUrl": "https://github.com/sixmillions/vfox-tomcat/releases/download/v0.1.0/vfox-tomcat-0.1.0.zip",
+  "license": "Apache 2.0",
+  "manifestUrl": "https://github.com/sixmillions/vfox-tomcat/releases/download/manifest/manifest.json"
+}
