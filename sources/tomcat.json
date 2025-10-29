@@ -1,0 +1,9 @@
+{
+  "name": "tomcat",
+  "manifestUrl": "https://github.com/sixmillions/vfox-tomcat/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "10.1.30",
+    "check": "catalina.sh version",
+    "resultRegx": "10\\.1\\.30"
+  }
+}
