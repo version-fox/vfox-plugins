@@ -23,8 +23,16 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6
 
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
     - name: Run script
-      run: bash ./script/update_plugin.sh ./sources ./plugins
+      run: python3 ./script/update_plugin.py ./sources ./plugins
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
