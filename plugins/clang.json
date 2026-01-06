@@ -6,5 +6,6 @@
   "description": "Clang plugin, https://clang.llvm.org",
   "notes": [],
   "license": "Apache 2.0",
-  "minRuntimeVersion": "0.5.0"
+  "minRuntimeVersion": "0.5.0",
+  "sha256": "69a9f96fac49ce16c38c752c7833d02dd45371932c0f76cb5ecba987cedd504a"
 }
