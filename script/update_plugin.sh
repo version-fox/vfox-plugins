@@ -68,6 +68,22 @@ for file in $sourceDir/*.json; do
 
   echo "::::Updating plugin json [$pluginJsonFile]"
 
+  # Calculate SHA256 for the download URL
+  downloadUrl=$(jq -r '.downloadUrl' $tmpPluginJsonFile)
+  echo "::::Downloading [$downloadUrl] for SHA256 calculation"
+  tmpZipFile="tmp.zip"
+  curl -# -o $tmpZipFile -L $downloadUrl
+  if [ $? -eq 0 ]; then
+    sha256=$(sha256sum $tmpZipFile | awk '{print $1}')
+    echo "::::Calculated SHA256: $sha256"
+    # Add or update sha256 field
+    jq --arg sha256 "$sha256" '. + {sha256: $sha256}' $tmpPluginJsonFile > tmp_with_sha.json
+    mv tmp_with_sha.json $tmpPluginJsonFile
+    rm $tmpZipFile
+  else
+    echo "Failed to download $downloadUrl for SHA256 calculation"
+  fi
+
   jq . $tmpPluginJsonFile >$pluginJsonFile
 
   # 如果版本不一致,则需要提交
