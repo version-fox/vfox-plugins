@@ -1,14 +1,12 @@
 {
+  "description": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
   "minRuntimeVersion": "0.4.0",
-  "license": "Apache 2.0",
-  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.5.1/vfox-java-0.5.1.zip",
-  "homepage": "https://github.com/version-fox/vfox-java",
   "legacyFilenames": [
     ".sdkmanrc"
   ],
-  "description": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
-  "version": "0.5.1",
-  "name": "java",
+  "homepage": "https://github.com/version-fox/vfox-java",
+  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.5.2/vfox-java-0.5.2.zip",
+  "license": "Apache 2.0",
   "notes": [
     "Listed below are the supported distributions and their short names.",
     " - Oracle:     x.y.z-oracle",
@@ -17,5 +15,8 @@
     " - Temurin:    x.y.z-tem",
     " - Zulu:       x.y.z-zulu",
     "Others please see: https://github.com/version-fox/vfox-java"
-  ]
+  ],
+  "name": "java",
+  "version": "0.5.2",
+  "sha256": "c63fe2f62a77f55a1dea9839908456e7bcd82cb2bc8a94e91b603addc483f047"
 }
