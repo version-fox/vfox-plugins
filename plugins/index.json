@@ -6,7 +6,7 @@
   },
   {
     "name": "clang",
-    "desc": "Clang plugin, https://clang.llvm.org",
+    "desc": "Clang plugin, https://clang.llvm.org/",
     "homepage": "https://github.com/version-fox/vfox-clang"
   },
   {
