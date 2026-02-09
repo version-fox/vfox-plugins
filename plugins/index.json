@@ -155,6 +155,11 @@
     "homepage": "https://github.com/XZzYassin/vfox-rust"
   },
   {
+    "name": "scala",
+    "desc": "Scala plugin, https://www.scala-lang.org/",
+    "homepage": "https://github.com/version-fox/vfox-scala"
+  },
+  {
     "name": "terraform",
     "desc": "Terraform plugin, https://www.terraform.io/",
     "homepage": "https://github.com/enochchau/vfox-terraform"
