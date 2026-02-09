@@ -110,11 +110,6 @@
     "homepage": "https://github.com/version-fox/vfox-maven"
   },
   {
-    "name": "mongo",
-    "desc": "mongo vfox plugin, support for managing multiple mongo versions.",
-    "homepage": "https://github.com/yeshan333/vfox-mongo"
-  },
-  {
     "name": "mongod",
     "desc": "A mise tool plugin for mongod",
     "homepage": "https://github.com/echocat/vfox-mongod"
