@@ -30,11 +30,6 @@
     "homepage": "https://github.com/version-fox/vfox-deno"
   },
   {
-    "name": "dotnet",
-    "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0",
-    "homepage": "https://github.com/version-fox/vfox-dotnet"
-  },
-  {
     "name": "elixir",
     "desc": "Elixir vfox plugin, support for managing multiple Elixir language versions in Windows & Uinx-like system.",
     "homepage": "https://github.com/version-fox/vfox-elixir"
