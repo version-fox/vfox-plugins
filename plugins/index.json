@@ -50,16 +50,6 @@
     "homepage": "https://github.com/version-fox/vfox-etcd"
   },
   {
-    "name": "flutter",
-    "desc": "Flutter plugin, https://flutter.dev",
-    "homepage": "https://github.com/version-fox/vfox-flutter"
-  },
-  {
-    "name": "gcc-arm-none-eabi",
-    "desc": "Arm GNU Toolchain bare-metal target (arm-none-eabi) plugin for the vfox version manager",
-    "homepage": "https://github.com/leoliu0605/vfox-gcc-arm-none-eabi"
-  },
-  {
     "name": "golang",
     "desc": "Golang plugin, https://go.dev/dl/",
     "homepage": "https://github.com/version-fox/vfox-golang"
