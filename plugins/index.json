@@ -20,11 +20,6 @@
     "homepage": "https://github.com/yanecc/vfox-crystal"
   },
   {
-    "name": "dart",
-    "desc": "dart plugin, support for getting stable, dev, beta version",
-    "homepage": "https://github.com/version-fox/vfox-dart"
-  },
-  {
     "name": "deno",
     "desc": "Deno plugin, https://deno.com/",
     "homepage": "https://github.com/version-fox/vfox-deno"
