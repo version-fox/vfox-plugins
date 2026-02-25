@@ -80,6 +80,11 @@
     "homepage": "https://github.com/version-fox/vfox-java"
   },
   {
+    "name": "julia",
+    "desc": "Julia plugin, https://julialang.org/",
+    "homepage": "https://github.com/ahai-code/vfox-julia"
+  },
+  {
     "name": "kotlin",
     "desc": "Kotlin plugin",
     "homepage": "https://github.com/version-fox/vfox-kotlin"
@@ -98,6 +103,11 @@
     "name": "make",
     "desc": "GNU Make plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-make"
+  },
+  {
+    "name": "maven",
+    "desc": "Maven runtime environment.",
+    "homepage": "https://github.com/version-fox/vfox-maven"
   },
   {
     "name": "mongo",
@@ -145,14 +155,29 @@
     "homepage": "https://github.com/XZzYassin/vfox-rust"
   },
   {
+    "name": "scala",
+    "desc": "Scala plugin, https://www.scala-lang.org/",
+    "homepage": "https://github.com/version-fox/vfox-scala"
+  },
+  {
     "name": "terraform",
     "desc": "Terraform plugin, https://www.terraform.io/",
     "homepage": "https://github.com/enochchau/vfox-terraform"
   },
   {
+    "name": "tomcat",
+    "desc": "Tomcat plugin for vfox.",
+    "homepage": "https://github.com/sixmillions/vfox-tomcat"
+  },
+  {
     "name": "vagrant",
     "desc": "Vagrant plugin, https://www.vagrantup.com/",
     "homepage": "https://github.com/johnxu16/vfox-vagrant"
+  },
+  {
+    "name": "vlang",
+    "desc": "Vlang plugin",
+    "homepage": "https://github.com/ahai-code/vfox-vlang"
   },
   {
     "name": "zig",
