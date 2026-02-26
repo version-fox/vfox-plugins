@@ -105,6 +105,11 @@
     "homepage": "https://github.com/leoli0605/vfox-make"
   },
   {
+    "name": "maven",
+    "desc": "Maven runtime environment.",
+    "homepage": "https://github.com/version-fox/vfox-maven"
+  },
+  {
     "name": "mongo",
     "desc": "mongo vfox plugin, support for managing multiple mongo versions.",
     "homepage": "https://github.com/yeshan333/vfox-mongo"
