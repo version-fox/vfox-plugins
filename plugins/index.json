@@ -5,6 +5,11 @@
     "homepage": "https://github.com/arfaWong/vfox-bun"
   },
   {
+    "name": "clang",
+    "desc": "Clang plugin, https://clang.llvm.org/",
+    "homepage": "https://github.com/version-fox/vfox-clang"
+  },
+  {
     "name": "cmake",
     "desc": "Cmake plugin, https://cmake.org/",
     "homepage": "https://github.com/version-fox/vfox-cmake"
@@ -18,6 +23,11 @@
     "name": "dart",
     "desc": "dart plugin, support for getting stable, dev, beta version",
     "homepage": "https://github.com/version-fox/vfox-dart"
+  },
+  {
+    "name": "deno",
+    "desc": "Deno plugin, https://deno.com/",
+    "homepage": "https://github.com/version-fox/vfox-deno"
   },
   {
     "name": "dotnet",
@@ -40,9 +50,19 @@
     "homepage": "https://github.com/version-fox/vfox-etcd"
   },
   {
+    "name": "flutter",
+    "desc": "Flutter plugin, https://flutter.dev",
+    "homepage": "https://github.com/version-fox/vfox-flutter"
+  },
+  {
     "name": "gcc-arm-none-eabi",
     "desc": "Arm GNU Toolchain bare-metal target (arm-none-eabi) plugin for the vfox version manager",
     "homepage": "https://github.com/leoliu0605/vfox-gcc-arm-none-eabi"
+  },
+  {
+    "name": "golang",
+    "desc": "Golang plugin, https://go.dev/dl/",
+    "homepage": "https://github.com/version-fox/vfox-golang"
   },
   {
     "name": "gradle",
@@ -85,6 +105,11 @@
     "homepage": "https://github.com/leoli0605/vfox-make"
   },
   {
+    "name": "maven",
+    "desc": "Maven runtime environment.",
+    "homepage": "https://github.com/version-fox/vfox-maven"
+  },
+  {
     "name": "mongo",
     "desc": "mongo vfox plugin, support for managing multiple mongo versions.",
     "homepage": "https://github.com/yeshan333/vfox-mongo"
@@ -93,6 +118,11 @@
     "name": "mongod",
     "desc": "A mise tool plugin for mongod",
     "homepage": "https://github.com/echocat/vfox-mongod"
+  },
+  {
+    "name": "ninja",
+    "desc": "Ninja plugin for the vfox version manager",
+    "homepage": "https://github.com/leoli0605/vfox-ninja"
   },
   {
     "name": "nodejs",
