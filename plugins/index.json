@@ -90,11 +90,6 @@
     "homepage": "https://github.com/version-fox/vfox-kotlin"
   },
   {
-    "name": "kubectl",
-    "desc": "Kubectl plugin",
-    "homepage": "https://github.com/ahai-code/vfox-kubectl"
-  },
-  {
     "name": "lua",
     "desc": "lua vfox plugin. Use the vfox to manage multiple lua versions on Linux /Darwin MacOS / Windows.",
     "homepage": "https://github.com/yeshan333/vfox-lua"
