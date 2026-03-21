@@ -60,11 +60,6 @@
     "homepage": "https://github.com/leoliu0605/vfox-gcc-arm-none-eabi"
   },
   {
-    "name": "golang",
-    "desc": "Golang plugin, https://go.dev/dl/",
-    "homepage": "https://github.com/version-fox/vfox-golang"
-  },
-  {
     "name": "gradle",
     "desc": "Gradle runtime environment.",
     "homepage": "https://github.com/version-fox/vfox-gradle"
@@ -168,11 +163,6 @@
     "name": "tomcat",
     "desc": "Tomcat plugin for vfox.",
     "homepage": "https://github.com/sixmillions/vfox-tomcat"
-  },
-  {
-    "name": "vagrant",
-    "desc": "Vagrant plugin, https://www.vagrantup.com/",
-    "homepage": "https://github.com/johnxu16/vfox-vagrant"
   },
   {
     "name": "vlang",
