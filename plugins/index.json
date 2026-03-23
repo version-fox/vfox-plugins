@@ -170,6 +170,11 @@
     "homepage": "https://github.com/sixmillions/vfox-tomcat"
   },
   {
+    "name": "typst",
+    "desc": "Typst plugin for vfox",
+    "homepage": "https://github.com/GuilleX7/vfox-typst"
+  },
+  {
     "name": "vagrant",
     "desc": "Vagrant plugin, https://www.vagrantup.com/",
     "homepage": "https://github.com/johnxu16/vfox-vagrant"
