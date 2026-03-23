@@ -1,0 +1,9 @@
+{
+  "name": "typst",
+  "manifestUrl": "https://github.com/GuilleX7/vfox-typst/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "0.14.2",
+    "check": "typst --version",
+    "resultRegx": "typst 0\\.14\\.2"
+  }
+}
