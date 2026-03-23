@@ -1,0 +1,13 @@
+{
+  "notes": [],
+  "license": "Apache-2.0",
+  "description": "Typst plugin for vfox",
+  "name": "typst",
+  "homepage": "https://github.com/GuilleX7/vfox-typst",
+  "minRuntimeVersion": "0.3.0",
+  "legacyFilenames": [],
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/GuilleX7/vfox-typst/releases/download/v1.0.0/vfox-typst-1.0.0.zip",
+  "manifestUrl": "https://github.com/GuilleX7/vfox-typst/releases/download/manifest/manifest.json",
+  "sha256": "79afe402d6fa7f0c972a48bfe6480e89d1104b2820662b5f57743decb99eeba7"
+}
