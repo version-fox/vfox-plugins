@@ -75,11 +75,6 @@
     "homepage": "https://github.com/version-fox/vfox-groovy"
   },
   {
-    "name": "java",
-    "desc": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
-    "homepage": "https://github.com/version-fox/vfox-java"
-  },
-  {
     "name": "julia",
     "desc": "Julia plugin, https://julialang.org/",
     "homepage": "https://github.com/ahai-code/vfox-julia"
