@@ -65,6 +65,11 @@
     "homepage": "https://github.com/version-fox/vfox-golang"
   },
   {
+    "name": "gradle",
+    "desc": "Gradle runtime environment.",
+    "homepage": "https://github.com/version-fox/vfox-gradle"
+  },
+  {
     "name": "groovy",
     "desc": "Groovy plugin, https://groovy.apache.org/",
     "homepage": "https://github.com/version-fox/vfox-groovy"
