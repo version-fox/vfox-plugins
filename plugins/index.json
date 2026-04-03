@@ -10,11 +10,6 @@
     "homepage": "https://github.com/version-fox/vfox-clang"
   },
   {
-    "name": "cmake",
-    "desc": "Cmake plugin, https://cmake.org/",
-    "homepage": "https://github.com/version-fox/vfox-cmake"
-  },
-  {
     "name": "crystal",
     "desc": "Crystal plugin, supports version \u2265 0.24.2 and nightly builds, https://crystal-lang.org",
     "homepage": "https://github.com/yanecc/vfox-crystal"
@@ -23,11 +18,6 @@
     "name": "dart",
     "desc": "dart plugin, support for getting stable, dev, beta version",
     "homepage": "https://github.com/version-fox/vfox-dart"
-  },
-  {
-    "name": "deno",
-    "desc": "Deno plugin, https://deno.com/",
-    "homepage": "https://github.com/version-fox/vfox-deno"
   },
   {
     "name": "dotnet",
@@ -103,11 +93,6 @@
     "name": "make",
     "desc": "GNU Make plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-make"
-  },
-  {
-    "name": "maven",
-    "desc": "Maven runtime environment.",
-    "homepage": "https://github.com/version-fox/vfox-maven"
   },
   {
     "name": "mongo",
