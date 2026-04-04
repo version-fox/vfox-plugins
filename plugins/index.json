@@ -5,11 +5,6 @@
     "homepage": "https://github.com/arfaWong/vfox-bun"
   },
   {
-    "name": "clang",
-    "desc": "Clang plugin, https://clang.llvm.org/",
-    "homepage": "https://github.com/version-fox/vfox-clang"
-  },
-  {
     "name": "cmake",
     "desc": "Cmake plugin, https://cmake.org/",
     "homepage": "https://github.com/version-fox/vfox-cmake"
@@ -103,11 +98,6 @@
     "name": "make",
     "desc": "GNU Make plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-make"
-  },
-  {
-    "name": "maven",
-    "desc": "Maven runtime environment.",
-    "homepage": "https://github.com/version-fox/vfox-maven"
   },
   {
     "name": "mongo",
