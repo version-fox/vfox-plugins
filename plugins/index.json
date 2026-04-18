@@ -85,11 +85,6 @@
     "homepage": "https://github.com/ahai-code/vfox-julia"
   },
   {
-    "name": "kotlin",
-    "desc": "Kotlin plugin",
-    "homepage": "https://github.com/version-fox/vfox-kotlin"
-  },
-  {
     "name": "kubectl",
     "desc": "Kubectl plugin",
     "homepage": "https://github.com/ahai-code/vfox-kubectl"
