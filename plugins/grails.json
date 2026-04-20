@@ -1,0 +1,16 @@
+{
+  "homepage": "https://github.com/verglor/vfox-grails",
+  "downloadUrl": "https://github.com/verglor/vfox-grails/releases/download/v1.1.0/vfox-grails-1.1.0.zip",
+  "notes": [],
+  "license": "Apache 2.0",
+  "minRuntimeVersion": "0.3.0",
+  "manifestUrl": "https://github.com/verglor/vfox-grails/releases/download/manifest/manifest.json",
+  "description": "Grails plugin",
+  "legacyFilenames": [
+    ".sdkmanrc",
+    ".grails-version"
+  ],
+  "version": "1.0.0",
+  "name": "grails",
+  "sha256": "a2b32c4ec1c28495ec54d74fe1a71d35eb0f2a682129bc366809e61478b2f2c6"
+}
