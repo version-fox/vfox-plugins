@@ -1,0 +1,9 @@
+{
+  "name": "grails",
+  "manifestUrl": "https://github.com/verglor/vfox-grails/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "6.2.0",
+    "check": "grails --version",
+    "resultRegx": "Grails Version:\\s+(\\d+\\.\\d+\\.\\d+)"
+  }
+}
