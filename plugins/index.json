@@ -75,6 +75,11 @@
     "homepage": "https://github.com/verglor/vfox-grails"
   },
   {
+    "name": "groovy",
+    "desc": "Groovy plugin, https://groovy.apache.org/",
+    "homepage": "https://github.com/version-fox/vfox-groovy"
+  },
+  {
     "name": "java",
     "desc": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
     "homepage": "https://github.com/version-fox/vfox-java"
