@@ -1,5 +1,10 @@
 [
   {
+    "name": "bun",
+    "desc": "Bun plugin, https://bun.sh/",
+    "homepage": "https://github.com/arfaWong/vfox-bun"
+  },
+  {
     "name": "clang",
     "desc": "Clang plugin, https://clang.llvm.org/",
     "homepage": "https://github.com/version-fox/vfox-clang"
@@ -153,11 +158,6 @@
     "name": "rust",
     "desc": "Rust plugin https://releases.rs/docs/",
     "homepage": "https://github.com/XZzYassin/vfox-rust"
-  },
-  {
-    "name": "scala",
-    "desc": "Scala plugin, https://www.scala-lang.org/",
-    "homepage": "https://github.com/version-fox/vfox-scala"
   },
   {
     "name": "terraform",
