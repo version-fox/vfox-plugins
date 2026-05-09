@@ -188,10 +188,5 @@
     "name": "vlang",
     "desc": "Vlang plugin",
     "homepage": "https://github.com/ahai-code/vfox-vlang"
-  },
-  {
-    "name": "zig",
-    "desc": "Zig runtime environment.",
-    "homepage": "https://github.com/version-fox/vfox-zig"
   }
 ]
