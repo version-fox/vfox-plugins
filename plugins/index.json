@@ -45,11 +45,6 @@
     "homepage": "https://github.com/version-fox/vfox-erlang"
   },
   {
-    "name": "etcd",
-    "desc": "etcd vfox plugin. Use the vfox to manage multiple etcd server & etcdctl & etcductl versions in Linux/Darwin/Windows. Also can be used to install an etcd with failpoint.",
-    "homepage": "https://github.com/version-fox/vfox-etcd"
-  },
-  {
     "name": "flutter",
     "desc": "Flutter plugin, https://flutter.dev",
     "homepage": "https://github.com/version-fox/vfox-flutter"
