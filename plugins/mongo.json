@@ -1,13 +1,14 @@
 {
+  "license": "Apache 2.0",
+  "version": "1.0.0",
+  "homepage": "https://github.com/yeshan333/vfox-mongo",
+  "description": "mongo vfox plugin, support for managing multiple mongo versions.",
   "manifestUrl": "https://github.com/yeshan333/vfox-mongo/releases/download/manifest/manifest.json",
+  "downloadUrl": "https://github.com/yeshan333/vfox-mongo/releases/download/v1.0.0/vfox-mongo-1.0.0.zip",
   "notes": [
     ""
   ],
-  "description": "mongo vfox plugin, support for managing multiple mongo versions.",
-  "downloadUrl": "https://github.com/yeshan333/vfox-mongo/releases/download/v0.1.0/vfox-mongo-0.1.0.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "mongo",
-  "homepage": "https://github.com/yeshan333/vfox-mongo",
-  "license": "Apache 2.0",
-  "version": "0.1.0"
+  "sha256": "cc4969e357811876840b7fd7d93dadd211c1004bfe64d60be742e9094a2ccff4"
 }
