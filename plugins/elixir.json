@@ -4,10 +4,10 @@
     ""
   ],
   "description": "Elixir vfox plugin, support for managing multiple Elixir language versions in Windows & Uinx-like system.",
-  "downloadUrl": "https://github.com/version-fox/vfox-elixir/releases/download/v0.4.0/vfox-elixir-0.4.0.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-elixir/releases/download/v1.0.0/vfox-elixir-1.0.0.zip",
   "minRuntimeVersion": "0.5.3",
   "name": "elixir",
   "homepage": "https://github.com/version-fox/vfox-elixir",
   "license": "Apache 2.0",
-  "version": "0.4.0"
+  "version": "1.0.0"
 }
