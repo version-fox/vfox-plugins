@@ -5,6 +5,11 @@
     "homepage": "https://github.com/arfaWong/vfox-bun"
   },
   {
+    "name": "chaosblade",
+    "desc": "Chaosblade plugin, https://chaosblade.io/",
+    "homepage": "https://github.com/vibe-ideas/vfox-chaosblade"
+  },
+  {
     "name": "clang",
     "desc": "Clang plugin, https://clang.llvm.org/",
     "homepage": "https://github.com/version-fox/vfox-clang"
