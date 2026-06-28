@@ -1,0 +1,14 @@
+{
+  "manifestUrl": "https://github.com/vibe-ideas/vfox-chaosblade/releases/download/manifest/manifest.json",
+  "name": "chaosblade",
+  "homepage": "https://github.com/vibe-ideas/vfox-chaosblade",
+  "minRuntimeVersion": "0.3.0",
+  "license": "Apache 2.0",
+  "description": "Chaosblade, is an experimental injection tool provided by Alibaba.",
+  "downloadUrl": "https://github.com/vibe-ideas/vfox-chaosblade/releases/download/v0.1.0/vfox-chaosblade-0.1.0.zip",
+  "notes": [
+    "chaosblade is a command-line tool, please make sure it is in your PATH."
+  ],
+  "version": "0.1.0",
+  "sha256": "ebf0d1764868c1a96c24937a77cb1971f529d6126db06133571a2c3999ef7ae9"
+}
