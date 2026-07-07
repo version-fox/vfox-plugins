@@ -1,0 +1,9 @@
+{
+  "name": "moonbit",
+  "manifestUrl": "https://github.com/morning-start/vfox-moonbit/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "0.10.3+16975d007",
+    "check": "moon version",
+    "resultRegx": "0\\.10\\.3\\+16975d007"
+  }
+}
