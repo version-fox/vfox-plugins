@@ -1,10 +1,5 @@
 [
   {
-    "name": "bun",
-    "desc": "Bun plugin, https://bun.sh/",
-    "homepage": "https://github.com/arfaWong/vfox-bun"
-  },
-  {
     "name": "clang",
     "desc": "Clang plugin, https://clang.llvm.org/",
     "homepage": "https://github.com/version-fox/vfox-clang"
@@ -63,11 +58,6 @@
     "name": "golang",
     "desc": "Golang plugin, https://go.dev/dl/",
     "homepage": "https://github.com/version-fox/vfox-golang"
-  },
-  {
-    "name": "gradle",
-    "desc": "Gradle runtime environment.",
-    "homepage": "https://github.com/version-fox/vfox-gradle"
   },
   {
     "name": "grails",
@@ -178,11 +168,6 @@
     "name": "typst",
     "desc": "Typst plugin for vfox",
     "homepage": "https://github.com/GuilleX7/vfox-typst"
-  },
-  {
-    "name": "vagrant",
-    "desc": "Vagrant plugin, https://www.vagrantup.com/",
-    "homepage": "https://github.com/johnxu16/vfox-vagrant"
   },
   {
     "name": "vlang",
