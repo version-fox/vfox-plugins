@@ -2,11 +2,11 @@
   "manifestUrl": "https://github.com/arfaWong/vfox-bun/releases/download/manifest/manifest.json",
   "notes": [],
   "description": "Bun plugin, https://bun.sh/",
-  "downloadUrl": "https://github.com/arfaWong/vfox-bun/releases/download/v0.1.5/vfox-bun-0.1.5.zip",
+  "downloadUrl": "https://github.com/arfaWong/vfox-bun/releases/download/v0.1.6/vfox-bun-0.1.6.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "bun",
   "homepage": "https://github.com/arfaWong/vfox-bun",
   "license": "Apache 2.0",
-  "version": "0.1.5",
-  "sha256": "932ac5ea8b387eb324c23e938018e433a774670ed0a3434a7da5e3de9b783590"
+  "version": "0.1.6",
+  "sha256": "a4c34a432f9fe608db91f1a7fecaa0002c755c5ad0533f6bbd68a55276c802a2"
 }
