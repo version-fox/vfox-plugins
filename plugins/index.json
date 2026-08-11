@@ -5,6 +5,11 @@
     "homepage": "https://github.com/arfaWong/vfox-bun"
   },
   {
+    "name": "clang",
+    "desc": "Clang plugin, https://clang.llvm.org/",
+    "homepage": "https://github.com/version-fox/vfox-clang"
+  },
+  {
     "name": "cmake",
     "desc": "Cmake plugin, https://cmake.org/",
     "homepage": "https://github.com/version-fox/vfox-cmake"
@@ -95,6 +100,11 @@
     "homepage": "https://github.com/ahai-code/vfox-kubectl"
   },
   {
+    "name": "lua",
+    "desc": "lua vfox plugin. Use the vfox to manage multiple lua versions on Linux /Darwin MacOS / Windows.",
+    "homepage": "https://github.com/yeshan333/vfox-lua"
+  },
+  {
     "name": "make",
     "desc": "GNU Make plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-make"
@@ -178,5 +188,10 @@
     "name": "vlang",
     "desc": "Vlang plugin",
     "homepage": "https://github.com/ahai-code/vfox-vlang"
+  },
+  {
+    "name": "zig",
+    "desc": "Zig runtime environment.",
+    "homepage": "https://github.com/version-fox/vfox-zig"
   }
 ]
