@@ -1,0 +1,9 @@
+{
+  "name": "tinygo",
+  "manifestUrl": "https://github.com/izdatyi/vfox-tinygo/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "0.41.1",
+    "check": "tinygo version",
+    "resultRegx": "tinygo version 0\\.41\\.1"
+  }
+}
