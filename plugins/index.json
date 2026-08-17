@@ -120,6 +120,11 @@
     "homepage": "https://github.com/yeshan333/vfox-mongo"
   },
   {
+    "name": "mongod",
+    "desc": "A mise tool plugin for mongod",
+    "homepage": "https://github.com/echocat/vfox-mongod"
+  },
+  {
     "name": "ninja",
     "desc": "Ninja plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-ninja"
