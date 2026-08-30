@@ -1,6 +1,6 @@
 {
   "name": "rust",
-  "manifestUrl": "https://github.com/xzzyassin/vfox-rust/releases/download/manifest/manifest.json",
+  "manifestUrl": "https://github.com/andersou/vfox-rust/releases/download/manifest/manifest.json",
   "test": {
     "version": "1.90.0",
     "check": "rustc --version",
