@@ -1,12 +1,13 @@
 {
-  "manifestUrl": "https://github.com/XZzYassin/vfox-rust/releases/download/manifest/manifest.json",
-  "notes": [],
-  "description": "Rust plugin https://releases.rs/docs/",
-  "downloadUrl": "https://github.com/XZzYassin/vfox-rust/releases/download/v1.0.0/vfox-rust-1.0.0.zip",
-  "minRuntimeVersion": "0.3.0",
   "name": "rust",
-  "homepage": "https://github.com/XZzYassin/vfox-rust",
+  "version": "1.1.2",
+  "homepage": "https://github.com/andersou/vfox-rust",
   "license": "Apache 2.0",
+  "description": "Rust plugin https://releases.rs/docs/ (fork of XZzYassin/vfox-rust)",
+  "minRuntimeVersion": "0.3.0",
+  "manifestUrl": "https://github.com/andersou/vfox-rust/releases/download/manifest/manifest.json",
+  "notes": [],
   "legacyFilenames": [],
-  "version": "1.0.0"
+  "downloadUrl": "https://github.com/andersou/vfox-rust/releases/download/v1.1.2/vfox-rust-1.1.2.zip",
+  "sha256": "5b076817d53b9fbdd2adf0610f52ee4ab0eb94059cd304361a73bc2362fe9867"
 }
