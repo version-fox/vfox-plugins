@@ -1,0 +1,19 @@
+{
+  "downloadUrl": "https://github.com/morning-start/vfox-moonbit/releases/download/v1.4.0/vfox-moonbit-1.4.0.zip",
+  "homepage": "https://github.com/morning-start/moonbit",
+  "manifestUrl": "https://github.com/morning-start/moonbit/releases/download/manifest/manifest.json",
+  "description": "MoonBit \u7f16\u7a0b\u8bed\u8a00\u5de5\u5177\u94fe\u3002MoonBit \u662f\u4e00\u4e2a\u7528\u4e8e\u4e91\u548c\u8fb9\u7f18\u8ba1\u7b97\u7684\u7aef\u5230\u7aef\u7f16\u7a0b\u8bed\u8a00\u5de5\u5177\u94fe\uff0c\u4f7f\u7528 WebAssembly\u3002",
+  "minRuntimeVersion": "0.3.0",
+  "notes": [
+    "\u9996\u6b21\u6b63\u5f0f\u53d1\u5e03",
+    "\u5e73\u53f0\u652f\u6301\u4e0e\u5b98\u65b9\u5b89\u88c5\u811a\u672c\u4e00\u81f4\uff1amacOS ARM64\u3001Linux x86_64/aarch64\u3001Windows x86_64/ARM64",
+    "\u652f\u6301 ~/.moon \u8f6f\u94fe\u63a5\uff0c\u7248\u672c\u5207\u6362\u65f6\u81ea\u52a8\u66f4\u65b0",
+    "\u652f\u6301 GitHub Token \u8ba4\u8bc1\uff0c\u63d0\u9ad8 API \u901f\u7387\u9650\u5236",
+    "\u652f\u6301 gh CLI \u81ea\u52a8\u83b7\u53d6 Token",
+    "Windows \u4f7f\u7528\u76ee\u5f55\u4ea4\u63a5\u70b9 (junction) \u907f\u514d\u7ba1\u7406\u5458\u6743\u9650\u95ee\u9898"
+  ],
+  "version": "1.4.0",
+  "name": "moonbit",
+  "license": "MIT",
+  "sha256": "cf896e78c1e6179b7019612864f518040845187ec3c9421af50c99053212ce1a"
+}
