@@ -1,0 +1,13 @@
+{
+  "manifestUrl": "https://github.com/izdatyi/vfox-tinygo/releases/download/manifest/manifest.json",
+  "notes": [],
+  "downloadUrl": "https://github.com/izdatyi/vfox-tinygo/releases/download/v0.1.0/vfox-tinygo-0.1.0.zip",
+  "license": "Apache-2.0",
+  "name": "tinygo",
+  "version": "0.1.0",
+  "description": "TinyGo plugin (https://tinygo.org/)",
+  "minRuntimeVersion": "0.3.0",
+  "homepage": "https://github.com/tinygo-org/tinygo",
+  "legacyFilenames": [],
+  "sha256": "add7c078700f5479358f0495213e04e4e7cd11437d2257a1abb565d6756c56b3"
+}
