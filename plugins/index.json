@@ -125,6 +125,11 @@
     "homepage": "https://github.com/echocat/vfox-mongod"
   },
   {
+    "name": "moonbit",
+    "desc": "MoonBit \u7f16\u7a0b\u8bed\u8a00\u5de5\u5177\u94fe\u3002MoonBit \u662f\u4e00\u4e2a\u7528\u4e8e\u4e91\u548c\u8fb9\u7f18\u8ba1\u7b97\u7684\u7aef\u5230\u7aef\u7f16\u7a0b\u8bed\u8a00\u5de5\u5177\u94fe\uff0c\u4f7f\u7528 WebAssembly\u3002",
+    "homepage": "https://github.com/morning-start/moonbit"
+  },
+  {
     "name": "ninja",
     "desc": "Ninja plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-ninja"
@@ -156,8 +161,8 @@
   },
   {
     "name": "rust",
-    "desc": "Rust plugin https://releases.rs/docs/",
-    "homepage": "https://github.com/XZzYassin/vfox-rust"
+    "desc": "Rust plugin https://releases.rs/docs/ (fork of XZzYassin/vfox-rust)",
+    "homepage": "https://github.com/andersou/vfox-rust"
   },
   {
     "name": "scala",
@@ -168,6 +173,11 @@
     "name": "terraform",
     "desc": "Terraform plugin, https://www.terraform.io/",
     "homepage": "https://github.com/enochchau/vfox-terraform"
+  },
+  {
+    "name": "tinygo",
+    "desc": "TinyGo plugin (https://tinygo.org/)",
+    "homepage": "https://github.com/tinygo-org/tinygo"
   },
   {
     "name": "tomcat",
