@@ -115,6 +115,11 @@
     "homepage": "https://github.com/version-fox/vfox-maven"
   },
   {
+    "name": "mingw64",
+    "desc": "MinGW-w64 (winlibs) \u5de5\u5177\u94fe\uff0c\u5411 Rust \u7684 x86_64-pc-windows-gnu \u63d0\u4f9b gcc/g++ \u4f5c\u4e3a linker\u3002",
+    "homepage": "https://github.com/brechtsanders/winlibs_mingw"
+  },
+  {
     "name": "mongo",
     "desc": "mongo vfox plugin, support for managing multiple mongo versions.",
     "homepage": "https://github.com/yeshan333/vfox-mongo"
