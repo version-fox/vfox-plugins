@@ -1,0 +1,9 @@
+{
+  "name": "mingw64",
+  "manifestUrl": "https://github.com/Peng-io/vfox-mingw/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "16.2.0",
+    "check": "gcc --version",
+    "resultRegx": "16\\.2\\.0"
+  }
+}
