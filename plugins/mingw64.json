@@ -1,0 +1,12 @@
+{
+  "description": "MinGW-w64 (winlibs) \u5de5\u5177\u94fe\uff0c\u5411 Rust \u7684 x86_64-pc-windows-gnu \u63d0\u4f9b gcc/g++ \u4f5c\u4e3a linker\u3002",
+  "version": "0.1.0",
+  "downloadUrl": "https://github.com/Peng-io/vfox-mingw/releases/download/v0.1.0/vfox-mingw-0.1.0.zip",
+  "legacyFilenames": [],
+  "minRuntimeVersion": "0.3.0",
+  "name": "mingw64",
+  "homepage": "https://github.com/brechtsanders/winlibs_mingw",
+  "license": "Apache 2.0",
+  "notes": [],
+  "sha256": "a4f325fc8ca76eec0a467a7c2822775e1e6b5e4edcec067cad1397f103496bf9"
+}
