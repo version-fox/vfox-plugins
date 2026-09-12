@@ -1,15 +1,19 @@
 {
-  "version": "0.5.0",
-  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.5.0/vfox-python-0.5.0.zip",
-  "homepage": "https://github.com/version-fox/vfox-python",
   "description": "Python language support, https://www.python.org",
-  "name": "python",
+  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.0/vfox-python-0.6.0.zip",
+  "homepage": "https://github.com/version-fox/vfox-python",
   "license": "Apache 2.0",
+  "minRuntimeVersion": "0.4.0",
+  "name": "python",
   "notes": [
     "Mirror Setting:",
     "You can use VFOX_PYTHON_MIRROR environment variable to set mirror.",
     "eg: `export VFOX_PYTHON_MIRROR=https://mirrors.huaweicloud.com/python/`",
+    "Set `VFOX_PYTHON_USE_UV_BUILD=1` to use prebuilt Python archives from uv-build.",
+    "Set `VFOX_PYTHON_UV_LIBC=gnu|musl` to override Linux libc detection.",
+    "Set `VFOX_PYTHON_UV_BUILD_MIRROR` to mirror uv-build archive downloads.",
     " "
   ],
-  "minRuntimeVersion": "0.4.0"
+  "sha256": "1749079147b6f18cc77217de7c92be1d15c708da742eae072df5d4f62ad8f5e0",
+  "version": "0.6.0"
 }
