@@ -1,6 +1,6 @@
 {
   "description": "Python language support, https://www.python.org",
-  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.0/vfox-python-0.6.0.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.2/vfox-python-0.6.2.zip",
   "homepage": "https://github.com/version-fox/vfox-python",
   "license": "Apache 2.0",
   "minRuntimeVersion": "0.4.0",
@@ -14,6 +14,6 @@
     "Set `VFOX_PYTHON_UV_BUILD_MIRROR` to mirror uv-build archive downloads.",
     " "
   ],
-  "sha256": "1749079147b6f18cc77217de7c92be1d15c708da742eae072df5d4f62ad8f5e0",
-  "version": "0.6.0"
+  "sha256": "08f2c4c77a1fdbd9975bd6a2cae37dbf97ce69af4bda624947902555b8515f00",
+  "version": "0.6.2"
 }
