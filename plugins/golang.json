@@ -1,11 +1,12 @@
 {
-  "manifestUrl": "https://github.com/version-fox/vfox-golang/releases/download/manifest/manifest.json",
-  "notes": [],
   "description": "Golang plugin, https://go.dev/dl/",
-  "downloadUrl": "https://github.com/version-fox/vfox-golang/releases/download/v0.4.0/vfox-golang-0.4.0.zip",
-  "minRuntimeVersion": "0.4.0",
-  "name": "golang",
+  "downloadUrl": "https://github.com/version-fox/vfox-golang/releases/download/v0.4.1/vfox-golang-0.4.1.zip",
   "homepage": "https://github.com/version-fox/vfox-golang",
   "license": "Apache 2.0",
-  "version": "0.4.0"
+  "manifestUrl": "https://github.com/version-fox/vfox-golang/releases/download/manifest/manifest.json",
+  "minRuntimeVersion": "0.4.0",
+  "name": "golang",
+  "notes": [],
+  "sha256": "26e2a5f33eecd2493f8cc6c11a2d0bb7f129b5924c174ad27cf5f9df63182187",
+  "version": "0.4.1"
 }
