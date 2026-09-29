@@ -1,0 +1,22 @@
+{
+  "author": "elijahr",
+  "description": "Nim compiler version manager with Windows support (vfox/mise tool plugin)",
+  "downloadUrl": "https://github.com/elijahr/vfox-nim/releases/download/v0.2.2/vfox-nim-0.2.2.zip",
+  "homepage": "https://github.com/elijahr/vfox-nim",
+  "legacyFilenames": [
+    ".nim-version"
+  ],
+  "license": "MIT",
+  "manifestUrl": "https://github.com/elijahr/vfox-nim/releases/download/manifest/manifest.json",
+  "minRuntimeVersion": "0.2.0",
+  "name": "nim",
+  "notes": [
+    "Supports Linux, macOS, and Windows",
+    "Uses 4-level fallback: official binaries -> exact nightly -> generic nightly -> source",
+    "Ported from production-tested asdf-nim logic",
+    "Set GITHUB_TOKEN for higher API rate limits"
+  ],
+  "sha256": "d236682df1e5859d1d0f759a1e106d135f1c3ce8e45f14748d057f9361cd426d",
+  "updateUrl": "https://github.com/elijahr/vfox-nim",
+  "version": "0.2.2"
+}
