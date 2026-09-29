@@ -135,6 +135,11 @@
     "homepage": "https://github.com/morning-start/moonbit"
   },
   {
+    "name": "nim",
+    "desc": "Nim compiler version manager with Windows support (vfox/mise tool plugin)",
+    "homepage": "https://github.com/elijahr/vfox-nim"
+  },
+  {
     "name": "ninja",
     "desc": "Ninja plugin for the vfox version manager",
     "homepage": "https://github.com/leoli0605/vfox-ninja"
