@@ -1,11 +1,13 @@
 {
   "description": "Flutter plugin, https://flutter.dev",
-  "downloadUrl": "https://github.com/version-fox/vfox-flutter/releases/download/v0.2.2/vfox-flutter-0.2.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-flutter/releases/download/v0.2.3/vfox-flutter-0.2.3.zip",
   "homepage": "https://github.com/version-fox/vfox-flutter",
   "license": "Apache 2.0",
   "minRuntimeVersion": "0.3.0",
   "name": "flutter",
-  "notes": [],
-  "sha256": "0551c2552611a27c0f8b2f1af7a9520b63ff561bd8e52b75dfa9df9222dcfc99",
-  "version": "0.2.2"
+  "notes": [
+    "See https://github.com/version-fox/vfox-flutter/blob/main/README.md for documentation."
+  ],
+  "sha256": "8ea8fe16760662f1e92f4a31221dc89867a2a82952a64dccd0215c77da5d8e13",
+  "version": "0.2.3"
 }
