@@ -1,7 +1,7 @@
 {
   "author": "elijahr",
   "description": "Nim compiler version manager with Windows support (vfox/mise tool plugin)",
-  "downloadUrl": "https://github.com/elijahr/vfox-nim/releases/download/v0.2.2/vfox-nim-0.2.2.zip",
+  "downloadUrl": "https://github.com/elijahr/vfox-nim/releases/download/v0.3.0/vfox-nim-0.3.0.zip",
   "homepage": "https://github.com/elijahr/vfox-nim",
   "legacyFilenames": [
     ".nim-version"
@@ -13,10 +13,11 @@
   "notes": [
     "Supports Linux, macOS, and Windows",
     "Uses 4-level fallback: official binaries -> exact nightly -> generic nightly -> source",
+    "Supports Nimony nightly builds (nimony, nimony-latest, ref:nimony, nimony-0.6.3)",
     "Ported from production-tested asdf-nim logic",
     "Set GITHUB_TOKEN for higher API rate limits"
   ],
-  "sha256": "d236682df1e5859d1d0f759a1e106d135f1c3ce8e45f14748d057f9361cd426d",
+  "sha256": "a996e9c4fa5d1783f49cb0f1bf77e4be2ac42159d169e1f2b12a905d3a6e4525",
   "updateUrl": "https://github.com/elijahr/vfox-nim",
-  "version": "0.2.2"
+  "version": "0.3.0"
 }
