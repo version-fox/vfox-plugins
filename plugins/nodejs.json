@@ -1,6 +1,6 @@
 {
   "description": "Node.js runtime environment.",
-  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.5.2/vfox-nodejs-0.5.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.5.3/vfox-nodejs-0.5.3.zip",
   "homepage": "https://github.com/version-fox/vfox-nodejs",
   "legacyFilenames": [
     ".node-version",
@@ -10,6 +10,6 @@
   "minRuntimeVersion": "0.3.0",
   "name": "nodejs",
   "notes": [],
-  "sha256": "0733416d7060e1d45bf56e825e06f039568612c6be73ca653b7de683e7569257",
-  "version": "0.5.2"
+  "sha256": "0e4ca1601af40673c714eac6324a9cc2c9f00e4afa61b494efa3f052ff1a4de1",
+  "version": "0.5.3"
 }
