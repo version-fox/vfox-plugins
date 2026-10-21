@@ -85,6 +85,11 @@
     "homepage": "https://github.com/version-fox/vfox-java"
   },
   {
+    "name": "jdtls",
+    "desc": "Eclipse JDT Language Server (Java LSP)",
+    "homepage": "https://github.com/Peng-io/vfox-jdtls"
+  },
+  {
     "name": "julia",
     "desc": "Julia plugin, https://julialang.org/",
     "homepage": "https://github.com/ahai-code/vfox-julia"
