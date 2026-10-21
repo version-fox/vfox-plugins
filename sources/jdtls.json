@@ -1,0 +1,9 @@
+{
+  "name": "jdtls",
+  "manifestUrl": "https://github.com/Peng-io/vfox-jdtls/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.61.0",
+    "check": "jdtls --help",
+    "resultRegx": "usage: jdtls"
+  }
+}
