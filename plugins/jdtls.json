@@ -1,0 +1,16 @@
+{
+  "description": "Eclipse JDT Language Server (Java LSP)",
+  "downloadUrl": "https://github.com/Peng-io/vfox-jdtls/releases/download/v0.1.0/vfox-jdtls-0.1.0.zip",
+  "homepage": "https://github.com/Peng-io/vfox-jdtls",
+  "legacyFilenames": [],
+  "license": "Apache 2.0",
+  "manifestUrl": "https://github.com/Peng-io/vfox-jdtls/releases/download/manifest/manifest.json",
+  "minRuntimeVersion": "0.4.0",
+  "name": "jdtls",
+  "notes": [
+    "\u8fd0\u884c JDK\uff1a1.61.0 \u53ca\u4ee5\u524d\u9700 17+\uff0c1.62.0 \u8d77\u9700 25",
+    "\u53e6\u9700 Python 3.9+\uff08jdtls \u542f\u52a8\u811a\u672c\u662f Python wrapper\uff09"
+  ],
+  "sha256": "2e5c87daaf37a6a5629f587832c186c8b7b0177161e92fbe5da76758fdb9adb2",
+  "version": "0.1.0"
+}
