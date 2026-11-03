@@ -1,6 +1,6 @@
 {
   "description": "Support for multiple JDK distributions, such as: Oracle, Graalvm, Eclipse & more.",
-  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.6.3/vfox-java-0.6.3.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-java/releases/download/v0.6.5/vfox-java-0.6.5.zip",
   "homepage": "https://github.com/version-fox/vfox-java",
   "legacyFilenames": [
     ".sdkmanrc"
@@ -11,6 +11,6 @@
   "notes": [
     "Short names and usage: https://github.com/version-fox/vfox-java/blob/main/README.md"
   ],
-  "sha256": "03ac5db90a894f3c00619462597cc3bc70696f4dddb35a2e42e1e189b73591e2",
-  "version": "0.6.3"
+  "sha256": "117edc9f4faf7636b76dce3542864491f56043302bfb5e7280ed98ae3bd861d6",
+  "version": "0.6.5"
 }
