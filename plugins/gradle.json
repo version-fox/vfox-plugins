@@ -1,14 +1,15 @@
 {
-  "manifestUrl": "https://github.com/version-fox/vfox-gradle/releases/download/manifest/manifest.json",
-  "notes": [
-    "The plugin supports specifying mirrors to download the installer."
-  ],
-  "description": "Gradle runtime environment.",
-  "downloadUrl": "https://github.com/version-fox/vfox-gradle/releases/download/v0.1.1/vfox-gradle-0.1.1.zip",
   "author": "ahai",
-  "version": "0.1.1",
+  "description": "Gradle runtime environment.",
+  "downloadUrl": "https://github.com/version-fox/vfox-gradle/releases/download/v0.1.2/vfox-gradle-0.1.2.zip",
   "homepage": "https://github.com/version-fox/vfox-gradle",
   "license": "Apache 2.0",
+  "manifestUrl": "https://github.com/version-fox/vfox-gradle/releases/download/manifest/manifest.json",
   "minRuntimeVersion": "0.3.0",
-  "name": "gradle"
+  "name": "gradle",
+  "notes": [
+    "Gradle needs a JDK. Mirrors and usage: https://github.com/version-fox/vfox-gradle/blob/main/README.md"
+  ],
+  "sha256": "ae24b3b038c525f5dc2812efbe08f79862e3deb2e72a75354975c2cd7923da55",
+  "version": "0.1.2"
 }
