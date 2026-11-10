@@ -1,6 +1,6 @@
 {
   "description": "Node.js runtime environment.",
-  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.5.4/vfox-nodejs-0.5.4.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-nodejs/releases/download/v0.5.6/vfox-nodejs-0.5.6.zip",
   "homepage": "https://github.com/version-fox/vfox-nodejs",
   "legacyFilenames": [
     ".node-version",
@@ -10,6 +10,38 @@
   "minRuntimeVersion": "0.3.0",
   "name": "nodejs",
   "notes": [],
-  "sha256": "0e2cbadc50abc7fc1a810e32367dd36e79be81276468b987484b85f5baff2eaf",
-  "version": "0.5.4"
+  "sha256": "3934bd62ceaa0cfffb8642dbc5298330e68255340998e655ccd4254552e68ff9",
+  "shadowHints": [
+    {
+      "match": "pnpm",
+      "message": "pnpm installed its own node. Run `pnpm remove -g node` so vfox's node runs.",
+      "url": "https://github.com/version-fox/vfox-nodejs/blob/main/docs/pnpm.md"
+    },
+    {
+      "match": "mise",
+      "message": "mise installed its own node. Run `mise unuse -g node` and `mise uninstall --all node` so vfox's node runs.",
+      "url": "https://github.com/version-fox/vfox-nodejs/blob/main/docs/managers.md#mise"
+    },
+    {
+      "match": "asdf",
+      "message": "asdf installed its own node. Run `asdf uninstall nodejs <version>` and drop it from `.tool-versions` so vfox's node runs.",
+      "url": "https://github.com/version-fox/vfox-nodejs/blob/main/docs/managers.md#asdf"
+    },
+    {
+      "match": "nvm",
+      "message": "nvm installed its own node. Run `nvm deactivate` in this shell so vfox's node runs.",
+      "url": "https://github.com/version-fox/vfox-nodejs/blob/main/docs/managers.md#nvm"
+    },
+    {
+      "match": "homebrew",
+      "message": "Homebrew installed its own node. Run `brew unlink node` (or `brew uninstall node`) so vfox's node runs.",
+      "url": "https://github.com/version-fox/vfox-nodejs/blob/main/docs/managers.md#homebrew"
+    },
+    {
+      "match": "nodejs",
+      "message": "A Node.js installed outside vfox (winget or the official installer) comes before vfox in PATH. Run `winget uninstall -e --id OpenJS.NodeJS` so vfox's node runs.",
+      "url": "https://github.com/version-fox/vfox-nodejs/blob/main/docs/managers.md#winget-and-the-official-installer"
+    }
+  ],
+  "version": "0.5.6"
 }
