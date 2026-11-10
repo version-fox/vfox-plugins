@@ -1,6 +1,6 @@
 {
   "description": "Flutter plugin, https://flutter.dev",
-  "downloadUrl": "https://github.com/version-fox/vfox-flutter/releases/download/v0.2.5/vfox-flutter-0.2.5.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-flutter/releases/download/v0.2.6/vfox-flutter-0.2.6.zip",
   "homepage": "https://github.com/version-fox/vfox-flutter",
   "license": "Apache 2.0",
   "minRuntimeVersion": "0.3.0",
@@ -8,6 +8,6 @@
   "notes": [
     "See https://github.com/version-fox/vfox-flutter/blob/main/README.md for documentation."
   ],
-  "sha256": "e743bae8183a5b7cecd1121a3abc96148b9b46d43eea8dcdf5cf8befe18b3630",
-  "version": "0.2.5"
+  "sha256": "e82fbae7b7e1d6d34963a87ba5e9f5efcb7d31c2dd946596fc4ce3664ff0cd44",
+  "version": "0.2.6"
 }
