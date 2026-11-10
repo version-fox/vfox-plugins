@@ -1,12 +1,62 @@
 {
   "description": "Golang plugin, https://go.dev/dl/",
-  "downloadUrl": "https://github.com/version-fox/vfox-golang/releases/download/v0.4.2/vfox-golang-0.4.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-golang/releases/download/v0.4.3/vfox-golang-0.4.3.zip",
   "homepage": "https://github.com/version-fox/vfox-golang",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-golang/releases/download/manifest/manifest.json",
   "minRuntimeVersion": "0.4.0",
   "name": "golang",
   "notes": [],
-  "sha256": "12c311da29077a807dd583d4114b1dcee8d26abccb0b8965d81aca3376cb497b",
-  "version": "0.4.2"
+  "sha256": "12686053babbf29d0a612d67c6d5a4f0573e9df639ece39bc9c3a895ffebfe2e",
+  "shadowHints": [
+    {
+      "match": "mise",
+      "message": "mise provides its own Go. `mise uninstall go` (or removing go from mise.toml) hands `go` back to vfox; `vfox link --detect golang` adopts mise's Go instead."
+    },
+    {
+      "match": "asdf",
+      "message": "asdf provides its own Go through shims. `asdf uninstall golang` hands `go` back to vfox; `vfox link --detect golang` adopts asdf's Go instead."
+    },
+    {
+      "match": "homebrew",
+      "message": "Homebrew's Go comes first. `brew uninstall go` hands `go` back to vfox; `vfox link --detect golang` adopts Homebrew's Go instead."
+    },
+    {
+      "match": "/usr/local/bin",
+      "message": "Another Go in /usr/local/bin (Homebrew on Intel, or a manual symlink) comes first. Remove it, or adopt that installation with `vfox link <version> <path>`."
+    },
+    {
+      "match": "/usr/local/go",
+      "message": "The official Go in /usr/local/go comes first. Remove it, or adopt it with `vfox link --detect golang`."
+    },
+    {
+      "match": "/usr/bin",
+      "message": "The system package manager's Go comes first. Remove the system golang package, or adopt it with `vfox link --detect golang`."
+    },
+    {
+      "match": "goenv",
+      "message": "goenv's Go comes first. `goenv uninstall <version>` hands `go` back to vfox; `vfox link --detect golang` adopts goenv's Go instead."
+    },
+    {
+      "match": "gvm",
+      "message": "gvm's Go comes first. `gvm uninstall <version>` hands `go` back to vfox; `vfox link --detect golang` adopts gvm's Go instead."
+    },
+    {
+      "match": "snap",
+      "message": "snap's Go comes first. `snap remove go` hands `go` back to vfox; `vfox link --detect golang` adopts snap's Go instead."
+    },
+    {
+      "match": "scoop",
+      "message": "Scoop's Go comes first. `scoop uninstall go` hands `go` back to vfox; `vfox link --detect golang` adopts Scoop's Go instead."
+    },
+    {
+      "match": "chocolatey",
+      "message": "Chocolatey's Go comes first. `choco uninstall golang` hands `go` back to vfox; `vfox link --detect golang` adopts it instead."
+    },
+    {
+      "match": "program files",
+      "message": "A machine-wide Go under Program Files comes first. Uninstall it, or adopt it with `vfox link --detect golang`."
+    }
+  ],
+  "version": "0.4.3"
 }
