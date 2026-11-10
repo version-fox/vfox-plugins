@@ -1,8 +1,11 @@
 {
   "author": "ahai",
   "description": "Gradle runtime environment.",
-  "downloadUrl": "https://github.com/version-fox/vfox-gradle/releases/download/v0.1.2/vfox-gradle-0.1.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-gradle/releases/download/v0.1.3/vfox-gradle-0.1.3.zip",
   "homepage": "https://github.com/version-fox/vfox-gradle",
+  "legacyFilenames": [
+    "gradle/wrapper/gradle-wrapper.properties"
+  ],
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-gradle/releases/download/manifest/manifest.json",
   "minRuntimeVersion": "0.3.0",
@@ -10,6 +13,58 @@
   "notes": [
     "Gradle needs a JDK. Mirrors and usage: https://github.com/version-fox/vfox-gradle/blob/main/README.md"
   ],
-  "sha256": "ae24b3b038c525f5dc2812efbe08f79862e3deb2e72a75354975c2cd7923da55",
-  "version": "0.1.2"
+  "sha256": "4d906fb433edd4cabc38babb8db153234b4fe6c0f4d8e9f080d46b08d2f023bd",
+  "shadowHints": [
+    {
+      "match": "sdkman",
+      "message": "SDKMAN! installed its own Gradle. Run `sdk uninstall gradle` or take its candidate directory out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "mise",
+      "message": "mise installed its own Gradle (a shim). Run `mise uninstall gradle` or take the shims directory out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "asdf",
+      "message": "asdf installed its own Gradle (a shim in the shims directory). Run `asdf uninstall gradle` or take the shims directory out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "homebrew",
+      "message": "Homebrew installed its own Gradle. Run `brew uninstall gradle` or take it out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "cellar",
+      "message": "Homebrew installed its own Gradle. Run `brew uninstall gradle` or take it out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "linuxbrew",
+      "message": "Linuxbrew installed its own Gradle. Run `brew uninstall gradle` or take it out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "chocolatey",
+      "message": "Chocolatey installed its own Gradle. Run `choco uninstall gradle` or take it out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "scoop",
+      "message": "Scoop installed its own Gradle. Run `scoop uninstall gradle` or take it out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "winget",
+      "message": "WinGet installed its own Gradle. Run `winget uninstall Gradle.Gradle` or take it out of PATH so vfox's Gradle runs.",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    },
+    {
+      "match": "gradle",
+      "message": "Another Gradle is earlier on PATH, so `gradle` does not run the version vfox selected. Remove it from PATH or put vfox first (`vfox config path.mode baseline`).",
+      "url": "https://github.com/version-fox/vfox-gradle/blob/main/docs/troubleshooting.md#another-gradle-shadows-the-one-vfox-selected"
+    }
+  ],
+  "version": "0.1.3"
 }
