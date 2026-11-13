@@ -1,19 +1,27 @@
 {
-  "description": "Python language support, https://www.python.org",
-  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.2/vfox-python-0.6.2.zip",
+  "description": "Python language support for CPython and GraalPy, https://www.python.org",
+  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.3/vfox-python-0.6.3.zip",
   "homepage": "https://github.com/version-fox/vfox-python",
+  "legacyFilenames": [
+    ".python-version"
+  ],
   "license": "Apache 2.0",
   "minRuntimeVersion": "0.4.0",
   "name": "python",
   "notes": [
-    "Mirror Setting:",
-    "You can use VFOX_PYTHON_MIRROR environment variable to set mirror.",
-    "eg: `export VFOX_PYTHON_MIRROR=https://mirrors.huaweicloud.com/python/`",
-    "Set `VFOX_PYTHON_USE_UV_BUILD=1` to use prebuilt Python archives from uv-build.",
-    "Set `VFOX_PYTHON_UV_LIBC=gnu|musl` to override Linux libc detection.",
-    "Set `VFOX_PYTHON_UV_BUILD_MIRROR` to mirror uv-build archive downloads.",
+    "Documentation: https://github.com/version-fox/vfox-python/blob/main/README.md",
+    "Mirror: set VFOX_PYTHON_MIRROR to a python.org mirror, for example",
+    "`export VFOX_PYTHON_MIRROR=https://mirrors.huaweicloud.com/python/`",
+    "uv-build: set VFOX_PYTHON_USE_UV_BUILD=1 to use prebuilt Python archives.",
+    "Set VFOX_PYTHON_UV_LIBC=gnu|musl to override Linux libc detection.",
+    "Set VFOX_PYTHON_UV_BUILD_MIRROR to mirror uv-build archive downloads.",
+    "GraalPy: install python@graalpy-24.2.0 or python@graalpy-community-24.2.0.",
+    "GraalPy on Windows is amd64 only; uv-build provides CPython only.",
+    "Already installed Python: `vfox link --detect python` (vfox 1.1.0 or later).",
+    "Windows launcher: installs are registered with PEP 514 automatically.",
+    "Set VFOX_PYTHON_REGISTER_PY_LAUNCHER=0 to disable Windows launcher registration.",
     " "
   ],
-  "sha256": "08f2c4c77a1fdbd9975bd6a2cae37dbf97ce69af4bda624947902555b8515f00",
-  "version": "0.6.2"
+  "sha256": "789cd1c00e20d74dfcfc8ed6cd70dae807b39c5a07a7cf1640a428c430b700ca",
+  "version": "0.6.3"
 }
