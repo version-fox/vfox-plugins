@@ -166,7 +166,7 @@
   },
   {
     "name": "python",
-    "desc": "Python language support, https://www.python.org",
+    "desc": "Python language support for CPython and GraalPy, https://www.python.org",
     "homepage": "https://github.com/version-fox/vfox-python"
   },
   {
