@@ -1,6 +1,6 @@
 {
   "description": "Python language support for CPython and GraalPy, https://www.python.org",
-  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.3/vfox-python-0.6.3.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-python/releases/download/v0.6.4/vfox-python-0.6.4.zip",
   "homepage": "https://github.com/version-fox/vfox-python",
   "legacyFilenames": [
     ".python-version"
@@ -12,7 +12,9 @@
     "Documentation: https://github.com/version-fox/vfox-python/blob/main/README.md",
     "Mirror: set VFOX_PYTHON_MIRROR to a python.org mirror, for example",
     "`export VFOX_PYTHON_MIRROR=https://mirrors.huaweicloud.com/python/`",
-    "uv-build: set VFOX_PYTHON_USE_UV_BUILD=1 to use prebuilt Python archives.",
+    "CPython on Linux and macOS: uv-build when the index has the version, else a source build.",
+    "A VFOX_PYTHON_MIRROR keeps the source build unless VFOX_PYTHON_UV_BUILD_MIRROR is set.",
+    "Set VFOX_PYTHON_USE_UV_BUILD=0 to always build from source, or =1 to use uv-build only.",
     "Set VFOX_PYTHON_UV_LIBC=gnu|musl to override Linux libc detection.",
     "Set VFOX_PYTHON_UV_BUILD_MIRROR to mirror uv-build archive downloads.",
     "GraalPy: install python@graalpy-24.2.0 or python@graalpy-community-24.2.0.",
@@ -22,6 +24,6 @@
     "Set VFOX_PYTHON_REGISTER_PY_LAUNCHER=0 to disable Windows launcher registration.",
     " "
   ],
-  "sha256": "789cd1c00e20d74dfcfc8ed6cd70dae807b39c5a07a7cf1640a428c430b700ca",
-  "version": "0.6.3"
+  "sha256": "4a853f27cd1128485c0db1ab00db13b8d78cf64c320cf153057bf715c74f5377",
+  "version": "0.6.4"
 }
