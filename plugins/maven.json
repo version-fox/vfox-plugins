@@ -1,14 +1,14 @@
 {
-  "minRuntimeVersion": "0.3.0",
-  "downloadUrl": "https://github.com/version-fox/vfox-maven/releases/download/v0.1.2/vfox-maven-0.1.2.zip",
-  "license": "Apache 2.0",
-  "name": "maven",
   "description": "Maven runtime environment.",
+  "downloadUrl": "https://github.com/version-fox/vfox-maven/releases/download/v0.1.3/vfox-maven-0.1.3.zip",
+  "homepage": "https://github.com/version-fox/vfox-maven",
+  "license": "Apache 2.0",
+  "manifestUrl": "https://github.com/version-fox/vfox-maven/releases/download/manifest/manifest.json",
+  "minRuntimeVersion": "0.3.0",
+  "name": "maven",
   "notes": [
     ""
   ],
-  "version": "0.1.2",
-  "homepage": "https://github.com/version-fox/vfox-maven",
-  "manifestUrl": "https://github.com/version-fox/vfox-maven/releases/download/manifest/manifest.json",
-  "sha256": "e00de51d95e9ee415d51acd97431f9ce8a7437f09f230fdeecbca1366446682f"
+  "sha256": "bede86aae9a1da2fe3b59c1ecf895b8d133d5f0ad23b8c2c797b5782abc8ba89",
+  "version": "0.1.3"
 }
