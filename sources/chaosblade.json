@@ -1,0 +1,9 @@
+{
+  "name": "chaosblade",
+  "manifestUrl": "https://github.com/vibe-ideas/vfox-chaosblade/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "1.8.0",
+    "check": "blade version",
+    "resultRegx": "Version:\\s+1\\.8\\.0"
+  }
+}
