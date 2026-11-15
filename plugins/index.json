@@ -1,10 +1,5 @@
 [
   {
-    "name": "chaosblade",
-    "desc": "Chaosblade, is an experimental injection tool provided by Alibaba.",
-    "homepage": "https://github.com/version-fox/vfox-chaosblade"
-  },
-  {
     "name": "clang",
     "desc": "Clang plugin, https://clang.llvm.org/",
     "homepage": "https://github.com/version-fox/vfox-clang"
