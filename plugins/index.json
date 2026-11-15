@@ -1,10 +1,5 @@
 [
   {
-    "name": "bun",
-    "desc": "Bun plugin, https://bun.sh/",
-    "homepage": "https://github.com/arfaWong/vfox-bun"
-  },
-  {
     "name": "clang",
     "desc": "Clang plugin, https://clang.llvm.org/",
     "homepage": "https://github.com/version-fox/vfox-clang"
