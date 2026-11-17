@@ -1,13 +1,15 @@
 {
-  "manifestUrl": "https://github.com/version-fox/vfox-dart/releases/download/manifest/manifest.json",
-  "notes": [
-    ""
-  ],
   "description": "dart plugin, support for getting stable, dev, beta version",
-  "downloadUrl": "https://github.com/version-fox/vfox-dart/releases/download/v0.1.1/vfox-dart-0.1.1.zip",
-  "minRuntimeVersion": "0.3.0",
-  "name": "dart",
+  "downloadUrl": "https://github.com/version-fox/vfox-dart/releases/download/v0.1.2/vfox-dart-0.1.2.zip",
   "homepage": "https://github.com/version-fox/vfox-dart",
   "license": "Apache 2.0",
-  "version": "0.1.1"
+  "manifestUrl": "https://github.com/version-fox/vfox-dart/releases/download/manifest/manifest.json",
+  "minRuntimeVersion": "0.3.0",
+  "name": "dart",
+  "notes": [
+    "Usage and documentation: https://github.com/version-fox/vfox-dart/blob/main/README.md",
+    "Channels: stable, dev, beta. Run `vfox search dart` to list versions."
+  ],
+  "sha256": "b81702d3b88d3edf791ea538d894b52142970a1af8d43c575207a52e81f2992d",
+  "version": "0.1.2"
 }
