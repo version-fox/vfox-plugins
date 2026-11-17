@@ -1,6 +1,6 @@
 {
   "description": "php plugin",
-  "downloadUrl": "https://github.com/version-fox/vfox-php/releases/download/v0.3.3/vfox-php-0.3.3.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-php/releases/download/v0.3.4/vfox-php-0.3.4.zip",
   "homepage": "https://github.com/version-fox/vfox-php",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-php/releases/download/manifest/manifest.json",
@@ -11,6 +11,6 @@
     "PHP installation requires some dependencies.",
     "For more detailed, please refer to https://github.com/version-fox/vfox-php/blob/main/README.md"
   ],
-  "sha256": "02b09965293620fc3de3c73bf06d029c267d5725491d1f8f9078bc62e9f0dca4",
-  "version": "0.3.3"
+  "sha256": "82a6700427597f9bb959260ce7843766f101d421c428a23429c8a2062881f469",
+  "version": "0.3.4"
 }
