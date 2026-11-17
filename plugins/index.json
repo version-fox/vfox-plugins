@@ -31,7 +31,7 @@
   },
   {
     "name": "dotnet",
-    "desc": "dotnet plugin, support for dotnet sdks 6.0, 7.0, 8.0",
+    "desc": "dotnet plugin, supports SDK, .NET Runtime and ASP.NET Core Runtime distributions",
     "homepage": "https://github.com/version-fox/vfox-dotnet"
   },
   {
