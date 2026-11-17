@@ -1,13 +1,14 @@
 {
+  "description": "Kotlin plugin",
+  "downloadUrl": "https://github.com/version-fox/vfox-kotlin/releases/download/v0.1.2/vfox-kotlin-0.1.2.zip",
+  "homepage": "https://github.com/version-fox/vfox-kotlin",
+  "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-kotlin/releases/download/manifest/manifest.json",
+  "minRuntimeVersion": "1.0.0",
+  "name": "kotlin",
   "notes": [
     ""
   ],
-  "description": "Kotlin plugin",
-  "downloadUrl": "https://github.com/version-fox/vfox-kotlin/releases/download/v0.1.1/vfox-kotlin-0.1.1.zip",
-  "minRuntimeVersion": "0.3.0",
-  "name": "kotlin",
-  "homepage": "https://github.com/version-fox/vfox-kotlin",
-  "license": "Apache 2.0",
-  "version": "0.1.1"
+  "sha256": "4a3960a8b64091257aea3d55c57295957937ebef9e074eebbb8d1cd8fd8b711e",
+  "version": "0.1.2"
 }
