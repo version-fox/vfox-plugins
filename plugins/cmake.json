@@ -1,15 +1,15 @@
 {
   "description": "Cmake plugin, https://cmake.org/",
-  "downloadUrl": "https://github.com/version-fox/vfox-cmake/releases/download/v0.1.8/vfox-cmake-0.1.8.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-cmake/releases/download/v0.1.9/vfox-cmake-0.1.9.zip",
   "homepage": "https://github.com/version-fox/vfox-cmake",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-cmake/releases/download/manifest/manifest.json",
   "minRuntimeVersion": "1.1.0",
   "name": "cmake",
   "notes": [
-    "Supports version 3.0 and above.",
+    "Supports version 2.8.8 and above.",
     "Usage and system SDK detection: https://github.com/version-fox/vfox-cmake/blob/main/README.md"
   ],
-  "sha256": "7e90638f02e3417170b0dc2a0b2493da681e5f9af4c8ca0919a023c9af5ff71f",
-  "version": "0.1.8"
+  "sha256": "fb89111f823b367b1803804b31caefd986c95dae94c0e1a0959f8bc1346c96fa",
+  "version": "0.1.9"
 }
