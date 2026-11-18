@@ -1,6 +1,6 @@
 {
   "description": "dotnet plugin, supports SDK, .NET Runtime and ASP.NET Core Runtime distributions",
-  "downloadUrl": "https://github.com/version-fox/vfox-dotnet/releases/download/v0.3.2/vfox-dotnet-0.3.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-dotnet/releases/download/v0.3.5/vfox-dotnet-0.3.5.zip",
   "homepage": "https://github.com/version-fox/vfox-dotnet",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-dotnet/releases/download/manifest/manifest.json",
@@ -9,6 +9,6 @@
   "notes": [
     "Suffix a version with -runtime or -aspnetcore to install a smaller runtime-only distribution instead of the SDK."
   ],
-  "sha256": "a84de4d84e7e0c58a5067d9546f26cb2c4613e1e6852d8219ba5cd3f70570f08",
-  "version": "0.3.2"
+  "sha256": "b81e0ac999effc5a800689adf9a16abe47a9ba1518221622da03257c8bdca820",
+  "version": "0.3.5"
 }
