@@ -1,6 +1,6 @@
 {
   "description": "Zig runtime environment.",
-  "downloadUrl": "https://github.com/version-fox/vfox-zig/releases/download/v0.1.2/vfox-zig-0.1.2.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-zig/releases/download/v0.1.3/vfox-zig-0.1.3.zip",
   "homepage": "https://github.com/version-fox/vfox-zig",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-zig/releases/download/manifest/manifest.json",
@@ -9,6 +9,6 @@
   "notes": [
     "Run `vfox search zig` to list the versions. The README explains the names (latest, nightly and the Mach builds) and how `vfox link --detect zig` adopts a zig already on the machine: https://github.com/version-fox/vfox-zig/blob/main/README.md"
   ],
-  "sha256": "b09218cbf08a6990c05967eb46c53dc9a491031a6c987140388d8035b9d447b2",
-  "version": "0.1.2"
+  "sha256": "cc9cf41b1b8d951f82cc11034967c4bac14df12f62d51a14f6dfdae0cd4b9cfb",
+  "version": "0.1.3"
 }
