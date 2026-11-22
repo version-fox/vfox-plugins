@@ -3,7 +3,7 @@
     "erlang"
   ],
   "description": "Elixir vfox plugin, support for managing multiple Elixir language versions in Windows & Unix-like system.",
-  "downloadUrl": "https://github.com/version-fox/vfox-elixir/releases/download/v1.0.1/vfox-elixir-1.0.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-elixir/releases/download/v1.0.5/vfox-elixir-1.0.5.zip",
   "homepage": "https://github.com/version-fox/vfox-elixir",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-elixir/releases/download/manifest/manifest.json",
@@ -12,6 +12,6 @@
   "notes": [
     "Usage, Erlang/OTP and the other ways to install Elixir: https://github.com/version-fox/vfox-elixir/blob/main/README.md"
   ],
-  "sha256": "98cadc2104b5a66a7bd10803515432dff4e1ea1dcfdcb2f519b39a53e455eb61",
-  "version": "1.0.1"
+  "sha256": "350654633b41a8bfea01f7c3f43df964f9af837ae030eacbfaddcfcbc5e11340",
+  "version": "1.0.5"
 }
