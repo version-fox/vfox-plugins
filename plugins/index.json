@@ -36,12 +36,12 @@
   },
   {
     "name": "elixir",
-    "desc": "Elixir vfox plugin, support for managing multiple Elixir language versions in Windows & Uinx-like system.",
+    "desc": "Elixir vfox plugin, support for managing multiple Elixir language versions in Windows & Unix-like system.",
     "homepage": "https://github.com/version-fox/vfox-elixir"
   },
   {
     "name": "erlang",
-    "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions in Windows & Uinx-like system.",
+    "desc": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions in Windows & Unix-like systems.",
     "homepage": "https://github.com/version-fox/vfox-erlang"
   },
   {
