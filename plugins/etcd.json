@@ -1,6 +1,6 @@
 {
   "description": "etcd vfox plugin, support for managing multiple etcd & etcdctl & etcdutl versions.",
-  "downloadUrl": "https://github.com/version-fox/vfox-etcd/releases/download/v0.2.1/vfox-etcd-0.2.1.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-etcd/releases/download/v0.2.2/vfox-etcd-0.2.2.zip",
   "homepage": "https://github.com/version-fox/vfox-etcd",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-etcd/releases/download/manifest/manifest.json",
@@ -9,6 +9,6 @@
   "notes": [
     ""
   ],
-  "sha256": "7bf7366ddf4edd2a80c32dc62950391cd5fe3778b29fdd4274e2a3612b8dfcd0",
-  "version": "0.2.1"
+  "sha256": "81047b2a00275b6ba2d1c62c1843317cac74c234f5ccb277c20ea660b5fc0de2",
+  "version": "0.2.2"
 }
