@@ -1,6 +1,6 @@
 {
   "description": "Erlang/OTP vfox plugin, support for managing multiple Erlang/OTP versions in Windows & Unix-like systems.",
-  "downloadUrl": "https://github.com/version-fox/vfox-erlang/releases/download/v1.2.4/vfox-erlang-1.2.4.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-erlang/releases/download/v1.2.5/vfox-erlang-1.2.5.zip",
   "homepage": "https://github.com/version-fox/vfox-erlang",
   "license": "Apache 2.0",
   "manifestUrl": "https://github.com/version-fox/vfox-erlang/releases/download/manifest/manifest.json",
@@ -9,6 +9,6 @@
   "notes": [
     ""
   ],
-  "sha256": "b1e6d5d5df80ab57d206f3d4a95904b630c4f0cd9538b9c3799e0e494aa9986f",
-  "version": "1.2.4"
+  "sha256": "31d64d4aebb0f17f93b5741b21fc69e6165180b1675ca1b2e02ab7188e04991d",
+  "version": "1.2.5"
 }
