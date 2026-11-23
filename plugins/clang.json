@@ -1,6 +1,6 @@
 {
   "description": "Clang plugin, https://clang.llvm.org/",
-  "downloadUrl": "https://github.com/version-fox/vfox-clang/releases/download/v0.5.3/vfox-clang-0.5.3.zip",
+  "downloadUrl": "https://github.com/version-fox/vfox-clang/releases/download/v0.5.4/vfox-clang-0.5.4.zip",
   "homepage": "https://github.com/version-fox/vfox-clang",
   "license": "Apache 2.0",
   "minRuntimeVersion": "0.5.1",
@@ -8,6 +8,6 @@
   "notes": [
     "Versions, environment variables and the list of system installs: https://github.com/version-fox/vfox-clang/blob/main/README.md"
   ],
-  "sha256": "721edf658e4aae95e84cac6beb6ba0d9f821940a32765e46949bb46353ee117b",
-  "version": "0.5.3"
+  "sha256": "9b9e8f8a141b3f48da82193798694cf947b1e93163f9c718817819bbf7177263",
+  "version": "0.5.4"
 }
